@@ -1,0 +1,8 @@
+torch
+numpy
+pytesseract
+matplotlib
+opencv-python
+pandas
+tqdm
+easyocr
