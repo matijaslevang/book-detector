@@ -1,0 +1,989 @@
+name,author,img_paths,bounding_boxes,text
+Peppa Pig: Little Library,Peppa Pig,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000001.jpg,"[[[102, 71], [488, 71], [488, 196], [102, 196]]]","[""'fa} little reere library""]"
+I Want My Hat Back,Jon Klassen,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000002.jpg,"[[[86, 32], [444, 32], [444, 100], [86, 100]]]","[""want myhat bacr jon riaka""]"
+The Gruffalo,Julia Donaldson,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000003.jpg,"[[[22, 23], [366, 23], [366, 134], [22, 134]]]","[""groffalo""]"
+Aristotle and Dante Discover the Secrets of the Universe,Benjamin Alire Saenz,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000004.jpg,"[[[112, 69], [364, 69], [364, 351], [112, 351]]]","[""brisltle ~zite diitter 55cts # untrise""]"
+Look Inside Things That Go,Rob Lloyd Jones,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000005.jpg,"[[[41, 87], [462, 87], [462, 202], [41, 202]]]","[""look inside things that go""]"
+Rainbow Fish,Marcus Pfister,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000006.jpg,"[[[73, 401], [377, 401], [377, 444], [73, 444]]]","[""thf rainbov""]"
+In My Heart:A Book of Feelings,Jo Witek,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000007.jpg,[],[]
+The Complete MAUS,Art Spiegelman,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000008.jpg,[],[]
+Looking for Alaska,John Green,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000009.jpg,[],[]
+Billionaire Boy,David Walliams,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000010.jpg,"[[[2, 23], [507, 23], [507, 220], [2, 220]]]","[""~daw  wallams billonaire boy""]"
+Mr Stink,David Walliams,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000011.jpg,"[[[36, 40], [490, 40], [490, 180], [36, 180]]]","[""mr stink ~dand walhthr""]"
+Harry Potter and the Prisoner of Azkaban,J. K. Rowling,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000012.jpg,[],[]
+Heartstopper Volume One,ALICE OSEMAN,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000013.jpg,[],[]
+Saga Volume 1,Brian K. Vaughan,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000014.jpg,"[[[81, 343], [422, 343], [422, 458], [81, 458]]]","[""saga""]"
+The Story of Ferdinand,Munro Leaf,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000015.jpg,"[[[161, 49], [353, 49], [353, 85], [161, 85]]]","[""tthe stokx""]"
+The Hunger Games,Suzanne Collins,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000016.jpg,"[[[34, 430], [478, 430], [478, 498], [34, 498]]]","[""the hunger grmes #uancdn;""]"
+Harry Potter and the Philosopher's Stone - Hufflepuff Edition,J. K. Rowling,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000017.jpg,[],[]
+Harry Potter and the Goblet of Fire,J. K. Rowling,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000018.jpg,[],[]
+Heartstopper Volume Two,ALICE OSEMAN,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000019.jpg,"[[[11, 271], [507, 271], [507, 411], [11, 411]]]","[""heartsteekr alic e dslra\""""]"
+"Uzumaki (3-in-1, Deluxe Edition)",Junji Ito,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000020.jpg,"[[[27, 161], [496, 161], [496, 282], [27, 282]]]","[""uzumak i vhii itd""]"
+"Batman The Killing Joke, Deluxe Edition",Alan Moore,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000021.jpg,[],[]
+Harry Potter and the Cursed Child - Parts One and Two,J. K. Rowling,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000022.jpg,"[[[46, 9], [460, 9], [460, 195], [46, 195]]]","[""harry potter cursedtehild""]"
+Persepolis I & II,Marjane Satrapi,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000023.jpg,"[[[23, 27], [494, 27], [494, 80], [23, 80]]]","[""persepolis""]"
+"My Hero Academia, Vol. 1",Kohei Horikoshi,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000024.jpg,[],[]
+Adulthood Is a Myth,Sarah Andersen,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000025.jpg,"[[[52, 18], [512, 18], [512, 182], [52, 182]]]","[""adulthood i5 a myth a sucktscb>coltcn""]"
+Saga Volume 2,Brian K. Vaughan,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000026.jpg,"[[[78, 337], [428, 337], [428, 470], [78, 470]]]","[""saga""]"
+Thing Explainer,Randall Munroe,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000027.jpg,"[[[118, 62], [398, 62], [398, 203], [118, 203]]]","[""thing explainer consutated?tfr in wyple reri?""]"
+Maps,Aleksandra Mizielinski,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000028.jpg,"[[[85, 89], [426, 89], [426, 193], [85, 193]]]","[""yeps""]"
+Unofficial Harry Potter Cookbook,Dinah Bucholz,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000029.jpg,"[[[65, 41], [449, 41], [449, 247], [65, 247]]]","[""unofficial hapry pottep coorzoor""]"
+Saga Volume 3,Brian K. Vaughan,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000030.jpg,"[[[69, 349], [437, 349], [437, 502], [69, 502]]]","[""saga tamee""]"
+Darth Vader and Son,Jeffrey Brown,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000031.jpg,"[[[176, 10], [484, 10], [484, 278], [176, 278]]]","[""itaewiar darth vader @nd son""]"
+V For Vendetta New (New Edition Tpb),Alan Moore,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000032.jpg,[],[]
+"My Hero Academia, Vol. 2",Kouhei Horikoshi,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000033.jpg,[],[]
+The True Story Of The Three Little Pigs,Jon Scieszka,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000034.jpg,"[[[25, 0], [480, 0], [480, 221], [25, 221]]]","[""dalr ltole the true story of the 3 lmttle pigs! ry wou""]"
+The Gruffalo,Julia Donaldson,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000035.jpg,"[[[15, 44], [340, 44], [340, 128], [15, 128]]]","[""gruffalo""]"
+Dog Man 5: Lord of the Fleas,Dav Pilkey,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000036.jpg,"[[[64, 26], [475, 26], [475, 156], [64, 156]]]","[""dognman llorp df ihe fleas""]"
+Paddington,Michael Bond,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000037.jpg,"[[[0, 169], [279, 169], [279, 333], [0, 333]]]","[""paddington mielacl rond 777 \""""]"
+The Family Book,Todd Parr,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000038.jpg,"[[[27, 4], [487, 4], [487, 91], [27, 91]]]","[""the family book""]"
+The Walking Dead Compendium Volume 1,Robert Kirkman,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000039.jpg,[],[]
+The Day The Crayons Came Home,Drew Daywalt,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000040.jpg,"[[[29, 16], [489, 16], [489, 177], [29, 177]]]","[""the dar tke \u20acra rons cufn \u20ac #om \u20ac""]"
+"My Hero Academia, Vol. 3",Kohei Horikoshi,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000041.jpg,[],[]
+"Tokyo Ghoul, Vol. 1",Sui Ishida,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000042.jpg,"[[[1, 6], [226, 6], [226, 184], [1, 184]]]","[""dc tokyo choul""]"
+The Rabbits,Shaun Tan,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000043.jpg,"[[[192, 117], [416, 117], [416, 150], [192, 150]]]","[""tae rabbts""]"
+Batman Year One,Frank Miller,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000044.jpg,"[[[141, 379], [426, 379], [426, 415], [141, 415]]]","[""tear one""]"
+Dear Zoo Noisy Book,Rod Campbell,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000045.jpg,"[[[32, 12], [370, 12], [370, 167], [32, 167]]]","[""dear zoo nuisy buok""]"
+Saga Volume 4,Brian K. Vaughan,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000046.jpg,"[[[80, 340], [436, 340], [436, 495], [80, 495]]]","[""saga toi""]"
+Watchmen International Edition,Alan Moore,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000047.jpg,[],[]
+Harold and the Purple Crayon,Crockett Johnson,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000048.jpg,"[[[18, 39], [474, 39], [474, 245], [18, 245]]]","[""harold and te 50 purple crayon""]"
+The Umbrella Academy Volume 1: Apocalypse Suite,Gerard Way,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000049.jpg,[],[]
+"My Hero Academia, Vol. 4",Kohei Horikoshi,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000050.jpg,[],
+Attack On Titan 1,Hajime Isayama,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000051.jpg,"[[[20, 0], [405, 0], [405, 139], [20, 139]]]","[""attack ontitan""]"
+"One-Punch Man, Vol. 1",One,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000052.jpg,[],[]
+"My Hero Academia, Vol. 5",Kohei Horikoshi,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000053.jpg,[],[]
+Thirteen Reasons Why,Jay Asher,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000054.jpg,"[[[42, 50], [461, 50], [461, 80], [42, 80]]]","[""13 aeasons wht [""]"
+The Magic of Reality,Richard Dawkins,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000055.jpg,"[[[66, 220], [487, 220], [487, 431], [66, 431]]]","[""magic of cality ~hnamu rn""]"
+Batman Hush,Jeph Loeb,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000056.jpg,"[[[20, 164], [487, 164], [487, 289], [20, 289]]]","[""4ush""]"
+The Ugly Truth (Diary of a Wimpy Kid book 5),Jeff Kinney,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000057.jpg,"[[[71, 93], [469, 93], [469, 233], [71, 233]]]","[""wpkd the ugly truth""]"
+After We Collided,Anna Todd,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000058.jpg,"[[[0, 31], [512, 31], [512, 436], [0, 436]]]","[""after we col aded annatodd #x 02 icae""]"
+Saga Volume 9,Brian K Vaughan,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000059.jpg,[],[]
+Saga Volume 5,Brian K. Vaughan,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000060.jpg,"[[[80, 344], [436, 344], [436, 478], [80, 478]]]","[""saga""]"
+DanTDM: Trayaurus and the Enchanted Crystal,DanTDM,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000061.jpg,[],[]
+"Tokyo Ghoul, Vol. 2",Sui Ishida,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000062.jpg,"[[[289, 106], [512, 106], [512, 189], [289, 189]]]","[""tokyo ghoul""]"
+The Arrival,Shaun Tan,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000063.jpg,"[[[146, 60], [413, 60], [413, 100], [146, 100]]]","[""arrtyal""]"
+Berserk Deluxe Volume 1,Kentaro Miura,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000064.jpg,[],[]
+We Have Always Lived in the Castle,Shirley Jackson,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000065.jpg,"[[[182, 55], [475, 55], [475, 207], [182, 207]]]","[""shirley jackson wehave alwavslved inthecastle""]"
+Fun Home,Alison Bechdel,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000066.jpg,[],[]
+The Adventures of Dog Man 4: Dog Man and Cat Kid,Dav Pilkey,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000067.jpg,"[[[59, 32], [442, 32], [442, 149], [59, 149]]]","[""do:man and cat kid""]"
+"Will Grayson, Will Grayson",John Green,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000068.jpg,"[[[42, 11], [491, 11], [491, 202], [42, 202]]]","[""will grayson; will grayson wem yor ticie5 dobtsgllee""]"
+After,Anna Todd,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000069.jpg,"[[[0, 218], [512, 218], [512, 423], [0, 423]]]","[""after nnmdd""]"
+Little Women,Louisa May Alcott,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000070.jpg,"[[[75, 52], [467, 52], [467, 481], [75, 481]]]","[""ittle &mon jenc-itlay""]"
+Berserk Volume 1,Kentaro Miura,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000071.jpg,"[[[40, 24], [450, 24], [450, 120], [40, 120]]]","[""gerserk""]"
+Harry Potter: A Pop-Up Book,Bruce Foster,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000072.jpg,"[[[40, 10], [477, 10], [477, 148], [40, 148]]]","[""halzh otter pop p book""]"
+Drama,Raina Telgemeier,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000073.jpg,"[[[51, 86], [458, 86], [458, 160], [51, 160]]]","[""drama""]"
+"My Hero Academia, Vol. 6",Kohei Horikoshi,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000074.jpg,"[[[79, 11], [500, 11], [500, 98], [79, 98]]]","[""ntyhbro htatemia""]"
+"The Promised Neverland, Vol. 1",KAIU SHIRAI,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000075.jpg,"[[[78, 22], [489, 22], [489, 128], [78, 128]]]","[""prmisz ~ei eriand""]"
+Saga Volume 6,Brian K. Vaughan,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000076.jpg,"[[[46, 372], [462, 372], [462, 512], [46, 512]]]","[""saga""]"
+The BFG,Roald Dahl,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000077.jpg,"[[[90, 1], [437, 1], [437, 271], [90, 271]]]","[""roald dahl thl bfg""]"
+Asterix: Omnibus 1,Rene Goscinny,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000078.jpg,[],[]
+The Adventure Zone,Carey Pietsch,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000079.jpg,[],[]
+The Walking Dead Compendium Volume 2,Robert Kirkman,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000080.jpg,[],[]
+"Tokyo Ghoul, Vol. 3",Sui Ishida,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000081.jpg,[],[]
+Saga Volume 7,Brian K. Vaughan,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000082.jpg,"[[[79, 350], [434, 350], [434, 497], [79, 497]]]","[""saga glieh""]"
+"My Hero Academia, Vol. 7",Kohei Horikoshi,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000083.jpg,[],[]
+"JoJo's Bizarre Adventure: Part 1--Phantom Blood, Vol. 1",Hirohiko Araki,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000084.jpg,[],[]
+Cyanide and Happiness,Robert DenBleyker,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000085.jpg,"[[[12, 17], [519, 17], [519, 190], [12, 190]]]","[""cyanide & happiness ' kngiirg mvtkl fint""]"
+125 True Stories of Amazing Animals,National Geographic Kids,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000086.jpg,"[[[32, 70], [481, 70], [481, 206], [32, 206]]]","[""925 kmazinganimals gtoriaso1""]"
+The Life-Changing Manga of Tidying Up,Marie Kondo,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000087.jpg,"[[[34, 120], [281, 120], [281, 271], [34, 271]]]","[""the lifo-changing manga of tidyingup""]"
+Asterix: Asterix The Gaul,Rene Goscinny,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000088.jpg,"[[[15, 0], [499, 0], [499, 125], [15, 125]]]","[""1 gozcinny iotetra doero asterix the gil]""]"
+Deadpool Kills The Marvel Universe,Cullen Bunn,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000089.jpg,[],[]
+"One-Punch Man, Vol. 2",One,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000090.jpg,"[[[11, 0], [512, 0], [512, 105], [11, 105]]]","[""oneaunchlhhn""]"
+The Neverending Story,Michael Ende,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000091.jpg,"[[[117, 65], [404, 65], [404, 171], [117, 171]]]","[""tructcuding ecwtu ylte""]"
+Saga Volume 8,Brian K. Vaughan,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000092.jpg,[],[]
+"My Hero Academia, Vol. 8",Kohei Horikoshi,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000093.jpg,[],[]
+Indestructibles: Baby Faces,Amy Pixton,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000094.jpg,"[[[22, 15], [517, 15], [517, 185], [22, 185]]]","[""iv\"" fnt 'wpecn \""ub baby faces kuf hiwupy yjf""]"
+Monstress Volume 1: Awakening,Marjorie Liu,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000095.jpg,[],[]
+The Colour Monster Pop-Up,Anna Llenas,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000096.jpg,[],[]
+Tomie,Junji Ito,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000097.jpg,[],[]
+Vader's Little Princess,Jeffrey Brown,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000098.jpg,"[[[160, 8], [484, 8], [484, 209], [160, 209]]]","[""itarwart vaders ettle prncesa""]"
+Attack On Titan 2,Hajime Isayama,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000099.jpg,"[[[50, 8], [409, 8], [409, 141], [50, 141]]]","[""ateck on ttn""]"
+The Adventure Zone,Carey Pietsch,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000100.jpg,"[[[50, 11], [488, 11], [488, 192], [50, 192]]]","[""u4 adlnure zone""]"
+"My Hero Academia, Volume 9",Kohei Horikoshi,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000101.jpg,[],[]
+The Action Bible,Sergio Cariello,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000102.jpg,"[[[28, 120], [336, 120], [336, 274], [28, 274]]]","[""#action birle""]"
+"Tokyo Ghoul, Vol. 4",Sui Ishida,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000103.jpg,"[[[293, 7], [512, 7], [512, 512], [293, 512]]]","[""ghoul tokyo 4 g""]"
+Gyo 2-in-1 Deluxe Edition,Junji Ito,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000104.jpg,"[[[153, 167], [470, 167], [470, 282], [153, 282]]]","[""g y 0 junii ito""]"
+The Umbrella Academy Volume 2: Dallas,Gerard Way,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000105.jpg,"[[[105, 249], [433, 249], [433, 287], [105, 287]]]","[""uvurela aeacemy""]"
+The Walking Dead Volume 1: Days Gone Bye,Robert Kirkman,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000106.jpg,[],[]
+The Complete Persepolis,Marjane Satrapi,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000107.jpg,"[[[18, 22], [494, 22], [494, 70], [18, 70]]]","[""persepolis""]"
+Batman,Jeph Loeb,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000108.jpg,[],[]
+"One-Punch Man, Vol. 3",One,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000109.jpg,[],[]
+Paper Girls Volume 1,Brian K. Vaughan,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000110.jpg,"[[[22, 161], [490, 161], [490, 319], [22, 319]]]","[""fapea gub""]"
+"My Hero Academia, Vol. 18",Kohei Horikoshi,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000111.jpg,[],
+The Walking Dead Book 1,Robert Kirkman,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000112.jpg,"[[[78, 263], [445, 263], [445, 457], [78, 457]]]","[""the wnalkig dead book dhe""]"
+"The Promised Neverland, Vol. 2",KAIU SHIRAI,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000113.jpg,"[[[132, 16], [497, 16], [497, 122], [132, 122]]]","[""pomisle xere nd""]"
+Batman Vol. 1 The Court Of Owls (The New 52),Scott Snyder,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000114.jpg,[],[]
+"My Hero Academia, Vol. 10",Kohei Horikoshi,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000115.jpg,"[[[73, 10], [498, 10], [498, 98], [73, 98]]]","[""myhero acaijeiia""]"
+"My Hero Academia, Vol. 15",Kohei Horikoshi,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000116.jpg,"[[[76, 0], [495, 0], [495, 83], [76, 83]]]","[""dtfieeo fcaeemia""]"
+Asterix: Asterix in Britain,Rene Goscinny,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000117.jpg,"[[[12, 7], [499, 7], [499, 135], [12, 135]]]","[""rgosciuy aetert wdeid in asterix brimain""]"
+Batman Vol. 2 The City Of Owls (The New 52),Scott Snyder,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000118.jpg,[],[]
+Berserk Volume 2,Kentaro Miura,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000119.jpg,"[[[8, 8], [512, 8], [512, 147], [8, 147]]]","[""1ezsere""]"
+"My Hero Academia, Vol. 20",Kohei Horikoshi,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000120.jpg,"[[[77, 11], [492, 11], [492, 96], [77, 96]]]","[""myhero academta""]"
+"Tokyo Ghoul, Vol. 5",Sui Ishida,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000121.jpg,"[[[9, 11], [227, 11], [227, 197], [9, 197]]]","[""tokyo ghoul 5 0u""]"
+"My Hero Academia, Vol. 19",Kohei Horikoshi,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000122.jpg,[],[]
+Attack On Titan 3,Hajime Isayama,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000123.jpg,"[[[87, 5], [465, 5], [465, 146], [87, 146]]]","[""nnasx on thsin""]"
+Encyclopedia Prehistorica: Dinosaurs,Robert Sabuda,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000124.jpg,[],
+"My Hero Academia, Vol. 17",Kohei Horikoshi,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000125.jpg,[],
+Thea Stilton: #5 Thea Stilton and the Mystery in Paris,Thea Stilton,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000126.jpg,"[[[47, 98], [465, 98], [465, 203], [47, 203]]]","[""thea stilton aie giy pea""]"
+"My Hero Academia, Vol. 16",Kohei Horikoshi,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000127.jpg,[],
+Sabrina,Nick Drnaso,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000128.jpg,"[[[29, 23], [483, 23], [483, 113], [29, 113]]]","[""sabrina""]"
+Death Note Box Set (Vol.s 1-13),Tsugumi Ohba,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000129.jpg,[],
+"JoJo's Bizarre Adventure: Part 1--Phantom Blood, Vol. 2",Hirohiko Araki,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000130.jpg,[],[]
+"My Hero Academia, Vol. 11",Kohei Horikoshi,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000131.jpg,"[[[121, 13], [498, 13], [498, 96], [121, 96]]]","[""mro hca u4""]"
+"My Hero Academia, Vol. 14",Kohei Horikoshi,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000132.jpg,"[[[74, 10], [490, 10], [490, 98], [74, 98]]]","[""fyhero ataijeiia""]"
+Berserk Volume 3,Kentaro Miura,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000133.jpg,[],[]
+My Lesbian Experience with Loneliness,Kabi Nagata,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000134.jpg,"[[[223, 27], [490, 27], [490, 151], [223, 151]]]","[""ke lesbian experience yil loneliness""]"
+Avatar: The Last Airbender# The Promise Part 1,Michael Dante DiMartino,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000135.jpg,[],[]
+Infinity Gauntlet,Jim Starlin,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000136.jpg,"[[[70, 0], [502, 0], [502, 126], [70, 126]]]","[""22 ikinf gannyir}""]"
+The Hobbit,J. R. R. Tolkien,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000137.jpg,"[[[63, 13], [441, 13], [441, 145], [63, 145]]]","[""l tllien hobbit dfo""]"
+"My Hero Academia, Vol. 12",Kohei Horikoshi,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000138.jpg,"[[[76, 13], [494, 13], [494, 98], [76, 98]]]","[""iyhero acaijemia""]"
+Mastering Manga with Mark Crilley,Mark Crilley,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000139.jpg,"[[[1, 10], [481, 10], [481, 151], [1, 151]]]","[""i masteing llazi wim mor ciee""]"
+"Black Butler, Vol. 1",Yana Toboso,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000140.jpg,[],[]
+Little Moments of Love,Catana Chetwynd,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000141.jpg,[],[]
+"My Hero Academia, Vol. 13",Kohei Horikoshi,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000142.jpg,"[[[78, 11], [496, 11], [496, 98], [78, 98]]]","[""myhero icaijemiia""]"
+"The Promised Neverland, Vol. 3",KAIU SHIRAI,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000143.jpg,"[[[38, 17], [486, 17], [486, 133], [38, 133]]]","[""wuc promised neverend""]"
+"One-Punch Man, Vol. 4",One,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000144.jpg,[],[]
+"One Piece, Vol. 1",Eiichiro Oda,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000145.jpg,[],[]
+"Tokyo Ghoul, Vol. 6",Sui Ishida,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000146.jpg,"[[[287, 251], [507, 251], [507, 379], [287, 379]]]","[""tokyd ghoul me""]"
+"JoJo's Bizarre Adventure: Part 1--Phantom Blood, Vol. 3",Hirohiko Araki,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000147.jpg,[],[]
+The Dark Tower VII: The Dark Tower,Stephen King,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000148.jpg,"[[[74, 13], [433, 13], [433, 276], [74, 276]]]","[""stephen king dark towek? tfedrrtcter""]"
+Asterix: Omnibus 2,Rene Goscinny,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000149.jpg,"[[[41, 27], [469, 27], [469, 172], [41, 172]]]","[""aeterx ant us""]"
+Big Mushy Happy Lump,Sarah Andersen,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000150.jpg,"[[[57, 6], [512, 6], [512, 180], [57, 180]]]","[""big mushy happy lump a-sdks scrbdlcs <alccten""]"
+"Overlord, Vol. 1 (light novel)",Kugane Maruyama,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000151.jpg,[],[]
+Persepolis,Marjane Satrapi,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000152.jpg,"[[[102, 46], [428, 46], [428, 118], [102, 118]]]","[""persepolis""]"
+"Vagabond, Vol. 1 (VIZBIG Edition)",Takehiko Inoue,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000153.jpg,[],[]
+Civil War,Steve McNiven,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000154.jpg,"[[[20, 170], [464, 170], [464, 352], [20, 352]]]","[""civl war""]"
+Batman: White Knight,Sean Murphy,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000155.jpg,[],
+The Complete Calvin and Hobbes,Bill Watterson,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000156.jpg,[],
+The Art of Spirited Away,Hayao Miyazaki,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000157.jpg,"[[[0, 35], [512, 35], [512, 92], [0, 92]]]","[""sttritedzwax""]"
+"No Game No Life, Vol. 1 (light novel)",Yuu Kamiya,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000158.jpg,[],[]
+"Tokyo Ghoul, Vol. 7",Sui Ishida,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000159.jpg,"[[[45, 21], [474, 21], [474, 72], [45, 72]]]","[""mokyolghoul""]"
+World Of Warcraft: Chronicle Volume 1,Blizzard,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000160.jpg,[],[]
+Batman Vol. 3 Death Of The Family (The New 52),Scott Snyder,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000161.jpg,[],[]
+Attack On Titan 4,Hajime Isayama,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000162.jpg,"[[[101, 0], [474, 0], [474, 147], [101, 147]]]","[""attack an 'than""]"
+The Wicked + The Divine Volume 1: The Faust Act,Kieron Gillen,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000163.jpg,[],[]
+Tintin in Tibet,Herge,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000164.jpg,"[[[140, 100], [401, 100], [401, 204], [140, 204]]]","[""ifun tdel""]"
+Momo,Michael Ende,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000165.jpg,"[[[50, 366], [472, 366], [472, 486], [50, 486]]]","[""moje""]"
+Attack On Titan 5,Hajime Isayama,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000166.jpg,"[[[119, 1], [493, 1], [493, 150], [119, 150]]]","[""attack on titan""]"
+Batman: Bat Signal,Danielle Selber,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000167.jpg,[],[]
+Lift the Flap Questions and Answers about your Body,Katie Daynes,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000168.jpg,"[[[120, 166], [394, 166], [394, 373], [120, 373]]]","[""questions and answers #cutedu \""body \""tent 60""]"
+The Sandman Vol. 2,Neil Gaiman,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000169.jpg,[],[]
+"Death Note Black Edition, Vol. 1",Tsugumi Ohba,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000170.jpg,[],[]
+"The Promised Neverland, Vol. 5",KAIU SHIRAI,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000171.jpg,"[[[29, 20], [502, 20], [502, 136], [29, 136]]]","[""prymised nemreand""]"
+Ms. Marvel Volume 1: No Normal,G. Willow Wilson,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000172.jpg,[],
+The Tiny Book of Tiny Stories: Volume 1,Joseph Gordon-Levitt,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000173.jpg,[],[]
+Berserk Volume 4,Kentaro Miura,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000174.jpg,"[[[33, 0], [510, 0], [510, 145], [33, 145]]]","[""lerser8""]"
+"One-Punch Man, Vol. 5",One,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000175.jpg,"[[[12, 0], [512, 0], [512, 143], [12, 143]]]","[""@ne punhl; 05""]"
+Spider-Man: Into the Spider-Verse,Ramin Zahed,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000176.jpg,[],[]
+Herding Cats,Sarah Andersen,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000177.jpg,"[[[109, 7], [448, 7], [448, 170], [109, 170]]]","[""herding cats ~swroks scricbl\"" rdlatton""]"
+"Spice and Wolf, Vol. 1 (light novel)",Isuna Hasekura,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000178.jpg,[],[]
+Saga Book One,Brian K. Vaughan,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000179.jpg,"[[[46, 0], [464, 0], [464, 140], [46, 140]]]","[""saga""]"
+The Walking Dead Compendium Volume 3,Robert Kirkman,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000180.jpg,[],[]
+Orange: The Complete Collection: 1,Ichigo Takano,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000181.jpg,[],[]
+Guts,Raina Telgemeier,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000182.jpg,"[[[129, 347], [380, 347], [380, 433], [129, 433]]]","[""guts""]"
+"Naruto, Vol. 1",Masashi Kishimoto,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000183.jpg,[],[]
+Torment,Lauren Kate,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000184.jpg,"[[[39, 427], [477, 427], [477, 489], [39, 489]]]","[""cits lauren kate""]"
+"The Promised Neverland, Vol. 4",KAIU SHIRAI,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000185.jpg,"[[[29, 12], [499, 12], [499, 134], [29, 134]]]","[""the promised neveriand""]"
+"Tokyo Ghoul, Vol. 8",Sui Ishida,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000186.jpg,[],[]
+Asterix: Omnibus 3,Rene Goscinny,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000187.jpg,[],[]
+"The Promised Neverland, Vol. 6",KAIU SHIRAI,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000188.jpg,"[[[37, 20], [512, 20], [512, 141], [37, 141]]]","[""jhe promised neverlnd""]"
+The Walking Dead Volume 2: Miles Behind Us,Robert Kirkman,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000189.jpg,"[[[62, 458], [454, 458], [454, 488], [62, 488]]]","[""nailes behind 09""]"
+The Assassin's Blade,Sarah J. Maas,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000190.jpg,"[[[36, 335], [494, 335], [494, 456], [36, 456]]]","[""lissassits blade""]"
+Saga Book Three,Brian K Vaughan,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000191.jpg,[],[]
+Asterix: Asterix at the Olympic Games,Rene Goscinny,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000192.jpg,"[[[10, 6], [503, 6], [503, 164], [10, 164]]]","[""rgoscctny nstentraupeazo asterix st thi olympi< gamrs""]"
+Geronimo Stilton: #40 Karate Mouse,Geronimo Stilton,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000193.jpg,"[[[109, 26], [483, 26], [483, 165], [109, 165]]]","[""gemimo stilton the karate dousl""]"
+"One-Punch Man, Vol. 16",One,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000194.jpg,"[[[10, 2], [509, 2], [509, 158], [10, 158]]]","[""qmepukchnan 16""]"
+Attack On Titan 6,Hajime Isayama,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000195.jpg,"[[[26, 1], [414, 1], [414, 144], [26, 144]]]","[""attack ontitan""]"
+Akira Volume 1,Katsuhiro Otomo,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000196.jpg,[],[]
+Avatar: The Last Airbender# The Promise Part 2,Gene Luen Yang,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000197.jpg,[],[]
+V for Vendetta Deluxe Collector Set,Alan Moore,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000198.jpg,[],
+Fairy Tail 1,Hiro Mashima,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000199.jpg,"[[[28, 0], [469, 0], [469, 130], [28, 130]]]","[""fairyiail""]"
+"Komi Can't Communicate, Vol. 1",Tomohito Oda,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000200.jpg,"[[[20, 203], [494, 203], [494, 302], [20, 302]]]","[""komi canit comn unicate""]"
+"One-Punch Man, Vol. 7",One,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000201.jpg,[],[]
+"One-Punch Man, Vol. 6",One,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000202.jpg,[],[]
+Making Comics,Scott McCloud,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000203.jpg,"[[[19, 3], [504, 3], [504, 215], [19, 215]]]","[""makipg comics atna %""]"
+Wolverine: Old Man Logan,Mark Millar,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000204.jpg,"[[[81, 0], [497, 0], [497, 85], [81, 85]]]","[""wsierime olnn""]"
+Vinland Saga 1,Makoto Yukimura,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000205.jpg,"[[[117, 336], [408, 336], [408, 487], [117, 487]]]","[""tpladd saga""]"
+Sailor Moon Vol. 1,Naoko Takeuchi,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000206.jpg,[],[]
+"Assassination Classroom, Vol. 1",Yusei Matsui,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000207.jpg,"[[[42, 26], [482, 26], [482, 94], [42, 94]]]","[""45 5 4 65 | r it |d n classroom""]"
+Daytripper,Gabriel Ba,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000208.jpg,"[[[0, 4], [501, 4], [501, 68], [0, 68]]]","[""d a y t r 1 p p e r""]"
+This One Summer,Jillian Tamaki,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000209.jpg,"[[[30, 196], [469, 196], [469, 374], [30, 374]]]","[""this owve summer""]"
+Asterix: Asterix and Cleopatra,Rene Goscinny,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000210.jpg,"[[[7, 0], [499, 0], [499, 175], [7, 175]]]","[""a goscinny tstemx doeaz0 asterixa and cleopatra""]"
+"One-Punch Man, Vol. 17",One,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000211.jpg,[],[]
+Richard Scarry's Bedtime Stories,Richard Scarry,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000212.jpg,"[[[26, 1], [386, 1], [386, 86], [26, 86]]]","[""rlchard scarry3 bedtime stories""]"
+"One-Punch Man, Vol. 8",One,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000213.jpg,[],[]
+Username: Evie,Joe Sugg,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000214.jpg,"[[[22, 0], [512, 0], [512, 150], [22, 150]]]","[""username: evie""]"
+Berserk Volume 5,Kentaro Miura,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000215.jpg,[],[]
+The King in Yellow,Robert W. Chambers,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000216.jpg,"[[[0, 156], [495, 156], [495, 402], [0, 402]]]","[""kingin yellowv atkt 448 fder <""]"
+Monstress Volume 2: The Blood,Marjorie Liu,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000217.jpg,[],[]
+Flashpoint,Geoff Johns,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000218.jpg,"[[[8, 0], [512, 0], [512, 108], [8, 108]]]","[""flasrpoint""]"
+The Walking Dead Volume 3: Safety Behind Bars,Robert Kirkman,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000219.jpg,[],[]
+"Goodnight Punpun, Vol. 1",Inio Asano,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000220.jpg,"[[[0, 0], [512, 0], [512, 180], [0, 180]]]","[""goodnight plixun""]"
+The Magic of Reality,Richard Dawkins,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000221.jpg,"[[[27, 51], [485, 51], [485, 187], [27, 187]]]","[""daw kin s the magic o realily he""]"
+The Art of Howl's Moving Castle,Hayao Miyazaki,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000222.jpg,[],[]
+Harry the Dirty Dog,Gene Zion,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000223.jpg,"[[[16, 0], [481, 0], [481, 114], [16, 114]]]","[""harey the dirty dog""]"
+"Tokyo Ghoul, Vol. 9",Sui Ishida,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000224.jpg,"[[[267, 360], [484, 360], [484, 446], [267, 446]]]","[""tortt ghoc""]"
+"Death Note, Vol. 1",Tsugumi Ohba,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000225.jpg,[],[]
+"Blue Exorcist, Vol. 1",Kazue KATO,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000226.jpg,[],[]
+"The Promised Neverland, Vol. 7",KAIU SHIRAI,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000227.jpg,"[[[44, 22], [504, 22], [504, 135], [44, 135]]]","[""premisei neverland""]"
+Attack on Titan: Volume 7,Hajime Isayama,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000228.jpg,"[[[26, 0], [411, 0], [411, 135], [26, 135]]]","[""attack on titan""]"
+"Tokyo Ghoul, Vol. 10",Sui Ishida,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000229.jpg,[],[]
+"The Girl from the Other Side: Siuil, a Run: Vol. 1",Nagabe,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000230.jpg,,
+Avatar: The Last Airbender# The Promise Part 3,Gene Luen Yang,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000231.jpg,[],[]
+Batman The Dark Knight Returns 30th Anniversary Edition,Frank Miller,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000232.jpg,,
+"The Promised Neverland, Vol. 8",KAIU SHIRAI,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000233.jpg,"[[[29, 10], [504, 10], [504, 125], [29, 125]]]","[""thepremised neverland""]"
+Orange: The Complete Collection: 2,Ichigo Takano,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000234.jpg,[],[]
+Good Night Yoga,Mariam Gates,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000235.jpg,"[[[15, 10], [496, 10], [496, 178], [15, 178]]]","[""good night yoga""]"
+Ghost World,Daniel Clowes,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000236.jpg,"[[[16, 164], [509, 164], [509, 362], [16, 362]]]","[""chost ~iorll""]"
+Sex Criminals Volume 1: One Weird Trick,Matt Fraction,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000237.jpg,[],[]
+Shiver,Junji Ito,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000238.jpg,"[[[77, 389], [464, 389], [464, 512], [77, 512]]]","[""shiver""]"
+The Adventures of Tintin in the Land of the Soviets,Herge,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000239.jpg,"[[[42, 15], [480, 15], [480, 179], [42, 179]]]","[""the adventures of ttntin aefortge for e pett mngteme- inthe land of the soviets""]"
+"Fullmetal Alchemist (3-in-1 Edition), Vol. 1",Hiromu Arakawa,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000240.jpg,[],[]
+The Walking Dead Book 2,Robert Kirkman,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000241.jpg,"[[[66, 274], [441, 274], [441, 470], [66, 470]]]","[""the wyalking dead dodk twd""]"
+Preacher Book One,Garth Ennis,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000242.jpg,[],[]
+The Prince and the Dressmaker,Jen Wang,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000243.jpg,"[[[160, 106], [383, 106], [383, 223], [160, 223]]]","[""prince ressmaee""]"
+Hawkeye: My Life as a Weapon (Marvel Now) Volume 1,Matt Fraction,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000244.jpg,[],[]
+"One-Punch Man, Vol. 9",One,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000245.jpg,[],[]
+Bad Dad,David Walliams,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000246.jpg,"[[[34, 328], [500, 328], [500, 497], [34, 497]]]","[""bad dad""]"
+Rat Queens Volume 1: Sass & Sorcery,Kurtis J. Wiebe,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000247.jpg,[],[]
+Harry Potter and the Chamber of Secrets,J. K. Rowling,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000248.jpg,"[[[12, 46], [505, 46], [505, 130], [12, 130]]]","[""harrypotter""]"
+Batman Vol. 4 Zero Year-Secret City (The New 52),Scott Snyder,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000249.jpg,[],[]
+Berserk Volume 6,Kentaro Miura,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000250.jpg,[],[]
+Attack On Titan 8,Hajime Isayama,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000251.jpg,"[[[24, 0], [412, 0], [412, 134], [24, 134]]]","[""nttaek onthn""]"
+"How to Draw Comics the ""Marvel"" Way",Stan Lee,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000252.jpg,"[[[29, 0], [509, 0], [509, 197], [29, 197]]]","[""hdeaaicd mhemmarvel way buxen""]"
+JoJo's Bizarre Adventure,Hirohiko Araki,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000253.jpg,"[[[109, 67], [419, 67], [419, 141], [109, 141]]]","[""jojos i4""]"
+Saga Of The Swamp Thing Book One,Alan Moore,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000254.jpg,"[[[24, 416], [499, 416], [499, 499], [24, 499]]]","[""swamp ihng #tttk jent? jaux celee""]"
+Asterix: Asterix The Gladiator,Rene Goscinny,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000255.jpg,"[[[3, 0], [500, 0], [500, 158], [3, 158]]]","[""e gosckiny *stemx ddbid astertx m egladialor""]"
+"Tokyo Ghoul, Vol. 12",Sui Ishida,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000256.jpg,"[[[285, 5], [512, 5], [512, 199], [285, 199]]]","[""tokyo ghcul 4 5""]"
+Scott Pilgrim: Scott Pilgrim's Precious Little Life Volume 1,Bryan O'Malley,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000257.jpg,[],[]
+Avatar: The Last Airbender# The Promise Library Edition,Gene Luen Yang,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000258.jpg,[],[]
+The New Ghost,Rob Hunter,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000259.jpg,"[[[123, 151], [385, 151], [385, 171], [123, 171]]]","[""the new ghost""]"
+"Tokyo Ghoul, Vol. 14",Sui Ishida,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000260.jpg,"[[[-24, -39], [313, -39], [313, 239], [-24, 239]]]","[""tokyo e 7 ghoi vg""]"
+Asterix: Asterix and the Goths,Rene Goscinny,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000261.jpg,"[[[9, 0], [500, 0], [500, 110], [9, 110]]]","[""b goscinny *nx_ uderzo asterix.  , wk goths""]"
+Berserk Volume 7,Kentaro Miura,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000262.jpg,[],[]
+Batman: A Death in the Family,Various,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000263.jpg,"[[[199, 137], [322, 137], [322, 245], [199, 245]]]","[""deth in the faml}""]"
+Fun Home,Alison Bechdel,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000264.jpg,"[[[169, 262], [328, 262], [328, 309], [169, 309]]]","[""tont 3m""]"
+Lady Midnight,Cassandra Clare,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000265.jpg,"[[[21, 283], [486, 283], [486, 385], [21, 385]]]","[""lady midnight cassandraclarc""]"
+"One-Punch Man, Vol. 10",One,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000266.jpg,,
+"Haikyu!!, Vol. 1",Haruichi Furudate,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000267.jpg,[],[]
+Lumberjanes Vol. 1,Rt Hon Lrd Just Brooke,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000268.jpg,"[[[61, 20], [452, 20], [452, 100], [61, 100]]]","[""[umberjanes""]"
+Kingdom Come {new Edition},Alex Ross,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000269.jpg,"[[[13, 10], [497, 10], [497, 94], [13, 94]]]","[""kinguu cume""]"
+Attack On Titan 9,Hajime Isayama,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000270.jpg,"[[[20, 0], [414, 0], [414, 138], [20, 138]]]","[""attack ontitan""]"
+"Tokyo Ghoul, Vol. 11",Sui Ishida,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000271.jpg,[],[]
+solanin,Inio Asano,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000272.jpg,"[[[-20, 230], [250, 230], [250, 500], [-20, 500]]]","[""solanin""]"
+"The Promised Neverland, Vol. 11",KAIU SHIRAI,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000273.jpg,"[[[111, 9], [491, 9], [491, 126], [111, 126]]]","[""ye prd ised if -0""]"
+Batman The Man Who Laughs,Ed Brubaker,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000274.jpg,[],[]
+One Piece Box Set: East Blue and Baroque Works (Volumes 1-23 with premium),Eiichiro Oda,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000275.jpg,[],[]
+"Tokyo Ghoul, Vol. 13",Sui Ishida,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000276.jpg,[],[]
+Manga in Theory and Practice,Hirohiko Araki,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000277.jpg,"[[[161, 113], [353, 113], [353, 235], [161, 235]]]","[""nanqa theort and fractice""]"
+Chilling Adventures Of Sabrina,Roberto Aguirre-Sacasa,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000278.jpg,"[[[41, 16], [486, 16], [486, 132], [41, 132]]]","[""chicling ndventurls 0f sabrina""]"
+American Born Chinese,Gene Luen Yang,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000279.jpg,[],[]
+Berserk Volume 8,Kentaro Miura,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000280.jpg,[],[]
+Superman Red Son (New Edition),Mark Millar,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000281.jpg,[],[]
+World Of Warcraft Chronicle Volume 2,Blizzard Entertainment,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000282.jpg,[],[]
+Asterix: Asterix and the Golden Sickle,Rene Goscinny,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000283.jpg,"[[[9, 0], [499, 0], [499, 134], [9, 134]]]","[""l gcscniy tstemra moesd astemixand the guiulsickle""]"
+"The Promised Neverland, Vol. 10",KAIU SHIRAI,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000284.jpg,"[[[30, 15], [499, 15], [499, 138], [30, 138]]]","[""jhe prpmised nettbenp""]"
+"One-Punch Man, Vol. 15",One,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000285.jpg,"[[[8, 2], [507, 2], [507, 105], [8, 105]]]","[""one punch yhk""]"
+"One-Punch Man, Vol. 11",One,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000286.jpg,[],[]
+Smashed: Junji Ito Story Collection,Junji Ito,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000287.jpg,[],[]
+Monstress Volume 3,Marjorie Liu,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000288.jpg,"[[[21, 13], [496, 13], [496, 115], [21, 115]]]","[""tonsres""]"
+Diablo III,Deckard Cain,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000289.jpg,[],[]
+Shh! We Have a Plan,Chris Haughton,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000290.jpg,"[[[153, 47], [383, 47], [383, 187], [153, 187]]]","[""shhi e kave #iln cnin fihtun""]"
+Berserk Deluxe Volume 2,Kentaro Miura,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000291.jpg,"[[[47, 43], [471, 43], [471, 141], [47, 141]]]","[""berserk ecdot""]"
+Room on the Broom,Julia Donaldson,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000292.jpg,[],[]
+"Black Butler, Vol. 2",Yana Toboso,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000293.jpg,[],[]
+"Death Note Black Edition, Vol. 2",Tsugumi Ohba,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000294.jpg,"[[[19, 25], [490, 25], [490, 107], [19, 107]]]","[""dire~hnof~e hlito""]"
+Paper Girls Volume 2,Brian K. Vaughan,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000295.jpg,"[[[24, 168], [492, 168], [492, 337], [24, 337]]]","[""paper gvll 2""]"
+"Hunter x Hunter, Vol. 1",Yoshihiro Togashi,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000296.jpg,"[[[0, 0], [512, 0], [512, 277], [0, 277]]]","[""hynter ho er""]"
+"No Game No Life, Vol. 2 (light novel)",Yuu Kamiya,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000297.jpg,[],[]
+The Complete Calvin and Hobbes,Bill Watterson,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000298.jpg,,
+Fables Vol. 1 Legends In Exile,Bill Willingham,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000299.jpg,[],[]
+Sword Art Online 2: Aincrad (light novel),Reki Kawahara,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000300.jpg,[],[]
+"One-Punch Man, Vol. 12",One,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000301.jpg,[],[]
+Transmetropolitan Vol. 01,Warren Ellis,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000302.jpg,[],[]
+"The Promised Neverland, Vol. 9",KAIU SHIRAI,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000303.jpg,[],[]
+"Go Away, Big Green Monster!",Ed Emberley,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000304.jpg,"[[[77, 235], [424, 235], [424, 380], [77, 380]]]","[""goaway big green monsteri""]"
+"One-Punch Man, Vol. 14",One,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000305.jpg,[],[]
+Throne of Glass,Sarah J. Maas,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000306.jpg,"[[[11, 299], [503, 299], [503, 481], [11, 481]]]","[""thrpne of glass""]"
+"Legend Of Korra, The: Turf Wars Part One",Michael Dante DiMartino,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000307.jpg,[],[]
+Disney Princess: A Magical Pop-Up World,Matthew Reinhart,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000308.jpg,"[[[108, 121], [408, 121], [408, 227], [108, 227]]]","[""drncess 77z aagon-you]""]"
+Watchmen The Deluxe Edition,Alan Moore,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000309.jpg,[],[]
+Make Way for Ducklings,Robert McCloskey,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000310.jpg,"[[[35, 13], [465, 13], [465, 97], [35, 97]]]","[""miake wv fi ducrlincs""]"
+The Walking Dead Volume 4: The Heart's Desire,Robert Kirkman,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000311.jpg,[],[]
+"Vagabond, Vol. 2 (VIZBIG Edition)",Takehiko Inoue,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000312.jpg,[],[]
+"No Game No Life, Vol. 4 (light novel)",Yuu Kamiya,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000313.jpg,[],[]
+Saga Book Two,Brian K. Vaughan,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000314.jpg,[],[]
+Batman Vol. 5 Zero Year - Dark City (The New 52),Scott Snyder,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000315.jpg,[],[]
+Every Day,David Levithan,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000316.jpg,"[[[42, 18], [483, 18], [483, 129], [42, 129]]]","[""et ery day""]"
+Berserk Volume 9,Kentaro Miura,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000317.jpg,"[[[110, 28], [489, 28], [489, 141], [110, 141]]]","[""ersex< 9""]"
+"One-Punch Man, Vol. 13",One,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000318.jpg,[],[]
+A Game of Thrones: The Graphic Novel,Daniel Abraham,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000319.jpg,"[[[64, 266], [420, 266], [420, 356], [64, 356]]]","[""game 0i thrones""]"
+"Spice and Wolf, Vol. 2 (light novel)",Isuna Hasekura,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000320.jpg,[],[]
+The Exile,Diana Gabaldon,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000321.jpg,"[[[122, 408], [394, 408], [394, 462], [122, 462]]]","[""exile""]"
+Fragments of Horror,Junji Ito,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000322.jpg,[],[]
+Thea Stilton and the Ice Treasure,Thea Stilton,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000323.jpg,"[[[90, 96], [420, 96], [420, 198], [90, 198]]]","[""thea stilton jno jaa vze treastee""]"
+"One Piece, Vol. 2",Eiichiro Oda,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000324.jpg,[],[]
+"Pokemon Adventures (Red and Blue), Vol. 1",Hidenori Kusaka,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000325.jpg,[],[]
+Avatar: The Last Airbender# The Search Part 1,Gene Luen Yang,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000326.jpg,"[[[93, 45], [437, 45], [437, 128], [93, 128]]]","[""avatar tnelns[ rch""]"
+The Cat in the Hat,Dr. Seuss,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000327.jpg,"[[[11, 6], [353, 6], [353, 515], [11, 515]]]","[""dr seuss diuut i4 treaar the cat in the hati""]"
+Asterix: Omnibus 5,Rene Goscinny,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000328.jpg,[],[]
+Asterix: Asterix in Switzerland,Rene Goscinny,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000329.jpg,"[[[7, 0], [500, 0], [500, 166], [7, 166]]]","[""ecoscinniy iaemzx waze asterx in switzerland""]"
+All You Need is Kill (manga),Ryosuke Takeuchi,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000330.jpg,"[[[39, 23], [393, 23], [393, 67], [39, 67]]]","[""aiii you imeed is""]"
+Amulet: The Last Council,Kazu Kibuishi,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000331.jpg,[],[]
+The Umbrella Academy Volume 3: Hotel Oblivion,Gerard Way,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000332.jpg,"[[[110, 242], [437, 242], [437, 280], [110, 280]]]","[""hmbrela acufmy""]"
+Miss Nelson Is Missing!,Harry Allard,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000333.jpg,"[[[142, 123], [381, 123], [381, 309], [142, 309]]]","[""miss nelson i5 missing}""]"
+"Demon Slayer: Kimetsu no Yaiba, Vol. 1",Koyoharu Gotouge,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000334.jpg,"[[[37, 2], [285, 2], [285, 111], [37, 111]]]","[""dfmon slayer""]"
+Blue Is The Warmest Color,Julie Maroh,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000335.jpg,"[[[233, 335], [459, 335], [459, 509], [233, 509]]]","[""blwe# warmest color julie maroh""]"
+Attack on Titan: Volume 10,Hajime Isayama,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000336.jpg,"[[[34, 10], [409, 10], [409, 151], [34, 151]]]","[""nitack on iffd""]"
+The Sandman Overture Deluxe Edition,Neil Gaiman,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000337.jpg,[],[]
+Hyperbole and a Half,Allie Brosh,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000338.jpg,[],[]
+Nausicaa of the Valley of the Wind Box Set,Hayao Miyazaki,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000339.jpg,[],[]
+Daredevil: Born Again,David Muzzucchelli,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000340.jpg,"[[[43, 6], [476, 6], [476, 81], [43, 81]]]","[""daredevil""]"
+Avatar: The Last Airbender - The Search Library Edition,Michael Dante DiMartino,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000341.jpg,[],[]
+Berserk Volume 10,Kentaro Miura,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000342.jpg,[],[]
+Attack On Titan 11,Hajime Isayama,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000343.jpg,[],[]
+Wytches Volume 1,Scott Snyder,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000344.jpg,,
+Fullmetal Alchemist Box Set,Hiromu Arakawa,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000345.jpg,[],[]
+Alice's Adventures in Wonderland,Lewis Carroll,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000346.jpg,"[[[73, 94], [412, 94], [412, 327], [73, 327]]]","[""alices adventures wonderland""]"
+Justice League Vol. 1 Origin (The New 52),Geoff Johns,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000347.jpg,[],[]
+Everyone's a Aliebn When Ur a Aliebn Too,Jomny Sun,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000348.jpg,"[[[30, 190], [487, 190], [487, 282], [30, 282]]]","[""everyone'? 0 eliebi hen lt 0 eliebr to8""]"
+Attack On Titan 12,Hajime Isayama,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000349.jpg,"[[[33, 1], [404, 1], [404, 126], [33, 126]]]","[""aiack on3zstn""]"
+"No Game No Life, Vol. 3 (light novel)",Yuu Kamiya,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000350.jpg,[],[]
+Smile and Sisters: The Box Set,Raina Telgemeier,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000351.jpg,[],[]
+"Assassination Classroom, Vol. 2",Yusei Matsui,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000352.jpg,"[[[34, 42], [478, 42], [478, 90], [34, 90]]]","[""classroom""]"
+"Blue Exorcist, Vol. 2",Kazue KATO,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000353.jpg,[],[]
+A Scanner Darkly,Philip K. Dick,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000354.jpg,"[[[185, 53], [482, 53], [482, 116], [185, 116]]]","[""philip k djck aocanneroar""]"
+Berserk Volume 12,Kentaro Miura,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000355.jpg,"[[[42, 20], [449, 20], [449, 108], [42, 108]]]","[""lerserk""]"
+"Black Butler, Vol. 3",Yana Toboso,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000356.jpg,"[[[29, 343], [388, 343], [388, 403], [29, 403]]]","[""elarck jut""]"
+"Deadman Wonderland, Vol. 1",Jinsei Kataoka,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000357.jpg,[],[]
+Lord of Shadows,Cassandra Clare,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000358.jpg,"[[[24, 301], [488, 301], [488, 408], [24, 408]]]","[""lord o1 shadows cassandr cvre ji t a""]"
+Berserk Volume 13,Kentaro Miura,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000359.jpg,"[[[31, 16], [482, 16], [482, 130], [31, 130]]]","[""eerserk 2""]"
+The Walking Dead Book 3,Robert Kirkman,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000360.jpg,"[[[91, 283], [442, 283], [442, 470], [91, 470]]]","[""the wnalking dead wook thkod""]"
+"Yotsuba&!, Vol. 1",Kiyohiko Azuma,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000361.jpg,[],[]
+Asterix: Asterix and the Big Fight,Rene Goscinny,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000362.jpg,"[[[7, 0], [512, 0], [512, 145], [7, 145]]]","[""b dozcdim *stemr doelcd asterixara the blg fph;""]"
+"Naruto, Vol. 2",Masashi Kishimoto,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000363.jpg,[],[]
+"JoJo's Bizarre Adventure: Part 2--Battle Tendency, Vol. 2",Hirohiko Araki,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000364.jpg,[],[]
+The Walking Dead Volume 5: The Best Defense,Robert Kirkman,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000365.jpg,[],[]
+"One Piece, Vol. 3",Eiichiro Oda,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000366.jpg,[],[]
+Berserk Volume 11,Kentaro Miura,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000367.jpg,[],[]
+Christmas Magic Painting Book,Fiona Watt,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000368.jpg,"[[[121, 121], [411, 121], [411, 264], [121, 264]]]","[""ghristmas lagic taintoig_ sook""]"
+Vinland Saga 2,Makoto Yukimura,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000369.jpg,"[[[114, 340], [362, 340], [362, 480], [114, 480]]]","[""uinla sag""]"
+"Death Note Black Edition, Vol. 3",Tsugumi Ohba,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000370.jpg,[],[]
+"The Boy, The Mole, The Fox and The Horse",Charlie Mackesy,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000371.jpg,[],[]
+"Dragon Ball Super, Vol. 1",Akira Toriyama,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000372.jpg,[],[]
+Attack On Titan 13,Hajime Isayama,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000373.jpg,"[[[22, 0], [409, 0], [409, 137], [22, 137]]]","[""attack ontitan""]"
+Avatar: The Last Airbender#the Search Part 2,Gene Luen Yang,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000374.jpg,[],[]
+Batman,Scott Snyder,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000375.jpg,,
+"JoJo's Bizarre Adventure: Part 3--Stardust Crusaders, Vol. 1",Hirohiko Araki,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000376.jpg,[],[]
+From Hell,Alan Moore,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000377.jpg,"[[[249, 454], [503, 454], [503, 492], [249, 492]]]","[""eddie compbell""]"
+Preacher Book Two,Garth Ennis,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000378.jpg,[],[]
+The Ancient Magus' Bride: Volume 1,Kore Yamazaki,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000379.jpg,[],[]
+"Black Butler, Vol. 4",Yana Toboso,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000380.jpg,[],[]
+"Tokyo Ghoul: re, Vol. 1",Sui Ishida,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000381.jpg,"[[[14, 6], [496, 6], [496, 54], [14, 54]]]","[""tokyo ghoulte""]"
+The Hedge Knight: The Graphic Novel,George R. R. Martin,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000382.jpg,[],[]
+"JoJo's Bizarre Adventure: Part 2--Battle Tendency, Vol. 3",Hirohiko Araki,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000383.jpg,[],[]
+Death Note (All-in-One Edition),Tsugumi Ohba,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000384.jpg,[],[]
+"Food Wars!, Vol. 1",Yuto Tsukuda,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000385.jpg,[],[]
+The Flash Vol. 1 Move Forward (The New 52),Brian Buccellato,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000386.jpg,[],[]
+Simon's Cat 3,Simon Tofield,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000387.jpg,[],[]
+Hellboy Omnibus Volume 1: Seed Of Destruction,John Byrne,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000388.jpg,[],[]
+Romeo and Juliet,William Shakespeare,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000389.jpg,"[[[54, 39], [462, 39], [462, 114], [54, 114]]]","[""romeo and juliet #lumaukrxi""]"
+Batman Vol. 7 Endgame (The New 52),Scott Snyder,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000390.jpg,[],[]
+Fables The Deluxe Edition Book One,Bill Willingham,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000391.jpg,,
+World Of Warcraft Chronicle Volume 3,Blizzard Entertainment,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000392.jpg,[],[]
+Asterix: Asterix and the Picts,Jean-Yves Ferri,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000393.jpg,[],[]
+Berserk Volume 14,Kentaro Miura,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000394.jpg,"[[[40, 20], [443, 20], [443, 110], [40, 110]]]","[""derser0""]"
+The Wonderful Wizard Of Oz,Robert Sabuda,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000395.jpg,"[[[19, 14], [459, 14], [459, 121], [19, 121]]]","[""iewonderhur wvizard""]"
+"Neon Genesis Evangelion 3-in-1 Edition, Vol. 1",Yoshiyuki Sadamoto,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000396.jpg,"[[[2, 0], [495, 0], [495, 144], [2, 144]]]","[""neon genesis evangelion""]"
+Asterix: Asterix in Spain,Rene Goscinny,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000397.jpg,"[[[8, 7], [500, 7], [500, 142], [8, 142]]]","[""neoscmtny asterx oczo astelix in spain""]"
+Fairy Tail 2,Hiro Mashima,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000398.jpg,[],[]
+Made in Abyss Voi. 1,Akihito Tsukushi,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000399.jpg,[],[]
+Avatar: The Last Airbender#the Search Part 3,Gene Luen Yang,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000400.jpg,[],[]
+Monster,Naoki Urasawa,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000401.jpg,"[[[27, 285], [267, 285], [267, 371], [27, 371]]]","[""~monsjer:""]"
+The Resurrectionist,E. B. Hudspeth,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000402.jpg,"[[[62, 34], [446, 34], [446, 60], [62, 60]]]","[""tite tisuitccttokist""]"
+The Walking Dead Volume 6: This Sorrowful Life,Robert Kirkman,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000403.jpg,[],[]
+"Spice and Wolf, Vol. 3 (light novel)",Isuna Hasekura,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000404.jpg,[],[]
+Maisy Dresses Up,Lucy Cousins,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000405.jpg,"[[[46, 27], [471, 27], [471, 114], [46, 114]]]","[""maisy dresses up""]"
+"No Game No Life, Vol. 5 (light novel)",Yuu Kamiya,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000406.jpg,"[[[345, 5], [495, 5], [495, 251], [345, 251]]]","[""no ame td vife 5""]"
+Building Stories,Chris Ware,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000407.jpg,[],[]
+"Merry Christmas, Geronimo",Geronimo Stilton,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000408.jpg,[],[]
+Attack On Titan 14,Hajime Isayama,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000409.jpg,"[[[119, 6], [495, 6], [495, 147], [119, 147]]]","[""afak on titza""]"
+The Rising Of The Shield Hero Volume 01: Light Novel,Aneko Yusagi,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000410.jpg,[],[]
+The Tiny Book of Tiny Stories: Volume 2,Joseph Gordon-Levitt,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000411.jpg,[],[]
+The Walking Dead Volume 32,Robert Kirkman,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000412.jpg,[],[]
+The Walking Dead: Book 4,Robert Kirkman,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000413.jpg,"[[[76, 268], [445, 268], [445, 473], [76, 473]]]","[""the walking dead wook{oue""]"
+Dork Diaries: Once Upon a Dork,Rachel Renee Russell,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000414.jpg,"[[[79, 19], [489, 19], [489, 234], [79, 234]]]","[""rachtl renec russcl derk onee upon a dork""]"
+"Haikyu!!, Vol. 2",Haruichi Furudate,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000415.jpg,[],[]
+Fables,Bill Willingham,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000416.jpg,[],[]
+"Death Note, Vol. 2",Tsugumi Ohba,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000417.jpg,[],[]
+Star Wars: Darth Vader Volume 1 - Vader,Kieron Gillen,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000418.jpg,"[[[58, 12], [456, 12], [456, 108], [58, 108]]]","[""darth-vader""]"
+"Vagabond, Vol. 3 (VIZBIG Edition)",Takehiko Inoue,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000419.jpg,[],[]
+"John Constantine, Hellblazer Vol 1",Jamie Delano,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000420.jpg,[],[]
+"JoJo's Bizarre Adventure: Part 2--Battle Tendency, Vol. 4",Hirohiko Araki,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000421.jpg,[],[]
+Akira Volume 2,Katsuhiro Otomo,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000422.jpg,[],[]
+How to Find Flower Fairies,Cicely Mary Barker,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000423.jpg,[],[]
+Scott Pilgrim: Scott Pilgrim Versus the World v. 2,Bryan O'Malley,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000424.jpg,[],[]
+A Wrinkle in Time,Madeleine L'Engle,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000425.jpg,"[[[44, 324], [472, 324], [472, 451], [44, 451]]]","[""awrinkle in twe""]"
+"Legend Of Zelda, The: Art & Artifacts",Nintendo USA,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000426.jpg,[],[]
+"Ten Count, Vol. 1",Rihito Takarai,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000427.jpg,[],[]
+Palestine,Joe Sacco,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000428.jpg,"[[[8, 2], [510, 2], [510, 118], [8, 118]]]","[""palestine @e sacco""]"
+Batman Vol. 6 Graveyard Shift (The New 52),Scott Snyder,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000429.jpg,[],[]
+JUDGE DREDD COMP CASE FILE 1,John Wagner,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000430.jpg,"[[[287, 310], [491, 310], [491, 357], [287, 357]]]","[""dee @m etofaeie xe files 0t""]"
+A Silent Voice 1,Yoshitoki Oima,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000431.jpg,"[[[53, 37], [462, 37], [462, 154], [53, 154]]]","[""silee 0eiee""]"
+Descender Volume 1: Tin Stars,Jeff Lemire,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000432.jpg,,
+"Fullmetal Alchemist (3-in-1 Edition), Vol. 2",Hiromu Arakawa,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000433.jpg,[],[]
+"One Piece: East Blue 1-2-3, Vol. 1 (Omnibus Edition)",Eiichiro Oda,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000434.jpg,[],[]
+Asterios Polyp,David Mazzucchelli,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000435.jpg,"[[[226, 102], [512, 102], [512, 178], [226, 178]]]","[""steros""]"
+Habibi,Craig Thompson,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000436.jpg,"[[[139, 75], [392, 75], [392, 153], [139, 153]]]","[""kabibi""]"
+Y The Last Man Deluxe Edition Book One,Brian K. Vaughan,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000437.jpg,[],[]
+Paper Girls Volume 3,Brian K. Vaughan,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000438.jpg,[],[]
+A Silent Voice Complete Series Box Set,Yoshitoki Oima,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000439.jpg,[],[]
+Deadpool By Daniel Way: The Complete Collection Volume 1,Andy Diggle,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000440.jpg,[],[]
+Batman: Death of the Family Book and Joker Mask Set,Scott Snyder,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000441.jpg,[],[]
+Soppy,Philippa Rice,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000442.jpg,"[[[17, 0], [504, 0], [504, 172], [17, 172]]]","[""sopps""]"
+"Spice and Wolf, Vol. 4 (light novel)",Isuna Hasekura,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000443.jpg,[],[]
+Red Rackham's Treasure,Herge,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000444.jpg,"[[[39, 65], [447, 65], [447, 145], [39, 145]]]","[""red ickaw$ treasure""]"
+Cinder,Marissa Meyer,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000445.jpg,[],[]
+"No Game No Life, Vol. 7 (light novel)",Yuu Kamiya,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000446.jpg,,
+Hellboy Volume 1: Seed Of Destruction,Mike Mignola,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000447.jpg,[],[]
+"Naruto, Vol. 3",Masashi Kishimoto,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000448.jpg,[],[]
+Black Hole,Charles Burns,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000449.jpg,"[[[19, 477], [271, 477], [271, 512], [19, 512]]]","[""c h a rl e $""]"
+"Blue Exorcist, Vol. 3",Kazue KATO,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000450.jpg,[],[]
+"Tokyo Ghoul: re, Vol. 2",Sui Ishida,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000451.jpg,"[[[15, 7], [494, 7], [494, 101], [15, 101]]]","[""tokyoghoul:re jui thica""]"
+Pluto,Naoki Urasawa,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000452.jpg,,
+"Assassination Classroom, Vol. 3",Yusei Matsui,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000453.jpg,"[[[36, 19], [480, 19], [480, 88], [36, 88]]]","[""tro h classroom""]"
+Neurocomic,Matteo Farinella,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000454.jpg,"[[[92, 86], [426, 86], [426, 118], [92, 118]]]","[""neurucomic""]"
+Bitch Planet Volume 1: Extraordinary Machine,Kelly Sue Deconnick,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000455.jpg,[],[]
+The Walking Dead Volume 7: The Calm Before,Robert Kirkman,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000456.jpg,[],[]
+Preacher Book Three,Garth Ennis,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000457.jpg,[],[]
+Mister Miracle,Tom King,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000458.jpg,[],[]
+Sailor Moon: v. 2,Naoko Takeuchi,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000459.jpg,[],[]
+"No Game No Life, Vol. 8 (light novel)",Yuu Kamiya,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000460.jpg,[],[]
+Asterix: Asterix and the Normans,Rene Goscinny,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000461.jpg,"[[[8, 7], [507, 7], [507, 132], [8, 132]]]","[""agoscny astenx mdelzd nd tme asterix noztts""]"
+Awkward,Svetlana Chmakova,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000462.jpg,"[[[24, 21], [479, 21], [479, 109], [24, 109]]]","[""awkward""]"
+Am I There Yet?,Mari Andrew,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000463.jpg,[],[]
+Noragami Volume 1,Adachitoka,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000464.jpg,"[[[20, 412], [501, 412], [501, 505], [20, 505]]]","[""norrezopi btrx go1""]"
+Wings of Fire Graphic Novel #1: The Dragonet Prophecy,Tui T. Sutherland,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000465.jpg,[],[]
+"Spice and Wolf, Vol. 6 (light novel)",Isuna Hasekura,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000466.jpg,[],[]
+"Deadman Wonderland, Vol. 2",Jinsei Kataoka,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000467.jpg,[],[]
+"Hunter x Hunter, Vol. 2",Yoshihiro Togashi,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000468.jpg,[],[]
+Attack On Titan 15,Hajime Isayama,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000469.jpg,"[[[103, 0], [489, 0], [489, 135], [103, 135]]]","[""afask titan""]"
+"Dragon Ball (3-in-1 Edition), Vol. 1",Akira Toriyama,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000470.jpg,"[[[3, 0], [512, 0], [512, 155], [3, 155]]]","[""lragonball ~in-""]"
+"The Saga of Tanya the Evil, Vol. 1 (light novel)",Carlo Zen,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000471.jpg,[],[]
+"Bleach, Vol. 1",Tite Kubo,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000472.jpg,"[[[99, 7], [483, 7], [483, 74], [99, 74]]]","[""bleaclrs""]"
+"Mindful Monkey, Happy Panda",Lauren Alderfer,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000473.jpg,"[[[35, 27], [482, 27], [482, 152], [35, 152]]]","[""mindful monkey, happr panda""]"
+Asterix: Omnibus 11,Rene Goscinny,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000474.jpg,[],[]
+Deadly Class Volume 1: Reagan Youth,Rick Remender,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000475.jpg,[],[]
+Attack On Titan 28,Hajime Isayama,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000476.jpg,"[[[10, 0], [408, 0], [408, 137], [10, 137]]]","[""attack on titan""]"
+"Death Note Black Edition, Vol. 4",Tsugumi Ohba,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000477.jpg,[],[]
+The Walking Dead Volume 17: Something to Fear,Robert Kirkman,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000478.jpg,[],[]
+Scott Pilgrim: Scott Pilgrim's Finest Hour v. 6,Bryan Lee O'Malley,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000479.jpg,[],[]
+Bone: v.1,Jeff Smith,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000480.jpg,"[[[92, 24], [418, 24], [418, 198], [92, 198]]]","[""bove""]"
+"Legend Of Korra, The: Turf Wars Part 3",Michael Dante DiMartino,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000481.jpg,[],[]
+Berserk Volume 15,Kentaro Miura,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000482.jpg,"[[[40, 22], [484, 22], [484, 134], [40, 134]]]","[""efrserk 15""]"
+Avatar: The Last Airbender#the Art Of The Animated Series,Bryan Konietzko,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000483.jpg,[],[]
+"Spice and Wolf, Vol. 5 (light novel)",Isuna Hasekura,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000484.jpg,[],[]
+"Dragon Ball Super, Vol. 5",Akira Toriyama,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000485.jpg,[],[]
+My Favorite Thing Is Monsters,Emil Ferris,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000486.jpg,"[[[29, 394], [487, 394], [487, 499], [29, 499]]]","[""my favorite thingi5 monsters""]"
+"Blue Exorcist, Vol. 4",Kazue KATO,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000487.jpg,[],[]
+Chew Volume 1: Tasters Choice,John Layman,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000488.jpg,[],[]
+The Art Of Charlie Chan Hock Chye,Sonny Liew,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000489.jpg,"[[[21, 3], [308, 3], [308, 82], [21, 82]]]","[""743 4rz ct charlie chan wock chte""]"
+Explorers on the Moon,Herge,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000490.jpg,"[[[28, 80], [466, 80], [466, 172], [28, 172]]]","[""explorers on the moon""]"
+The Walking Dead Volume 10: What We Become,Robert Kirkman,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000491.jpg,[],[]
+Doctor Who: Where's the Doctor?,Jamie Smart,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000492.jpg,"[[[74, 178], [459, 178], [459, 379], [74, 379]]]","[""wheres the docton?""]"
+Stan Lee's How To Draw Superheroes,Stan Lee,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000493.jpg,"[[[18, 33], [486, 33], [486, 141], [18, 141]]]","[""stal] [3305 now td @row sufe uierde3""]"
+The Walking Dead Volume 9: Here We Remain,Robert Kirkman,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000494.jpg,[],[]
+The Walking Dead: Volume 18,Robert Kirkman,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000495.jpg,[],[]
+The Walking Dead Book 5,Robert Kirkman,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000496.jpg,"[[[79, 281], [448, 281], [448, 473], [79, 473]]]","[""the walking dead book fve""]"
+The Little Mermaid,Robert Sabuda,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000497.jpg,"[[[38, 14], [443, 14], [443, 117], [38, 117]]]","[""jyle &megmaid""]"
+Vinland Saga 3,Makoto Yukimura,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000498.jpg,"[[[126, 336], [436, 336], [436, 483], [126, 483]]]","[""vinland saga""]"
+Through the Woods,Emily Carroll,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000499.jpg,"[[[100, 80], [399, 80], [399, 275], [100, 275]]]","[""through tt woods""]"
+Berserk Volume 16,Kentaro Miura,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000500.jpg,"[[[37, 13], [482, 13], [482, 136], [37, 136]]]","[""{erserk 15""]"
+The Incal,Alexandro Jodorowsky,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000501.jpg,"[[[24, 48], [489, 48], [489, 124], [24, 124]]]","[""the incal""]"
+"Goodnight Punpun, Vol. 2",Inio Asano,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000502.jpg,"[[[0, 0], [512, 0], [512, 178], [0, 178]]]","[""goodnight punpun""]"
+The World Of The Witcher,CD Projekt Red,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000503.jpg,,
+"Legend Of Korra, The: Turf Wars Part Two",Michael Dante DiMartino,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000504.jpg,[],[]
+Hawkeye Volume 2: Little Hits (marvel Now),Matt Fraction,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000505.jpg,"[[[70, 394], [482, 394], [482, 510], [70, 510]]]","[""haukeye little h\""ts feadi ttf #xsmt\""""]"
+Tokyo Ghoul Complete Box Set,Sui Ishida,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000506.jpg,"[[[120, 385], [289, 385], [289, 477], [120, 477]]]","[""tokyo = ghcui""]"
+"One Piece, Vol. 4",Eiichiro Oda,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000507.jpg,[],[]
+Thing Explainer,Randall Munroe,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000508.jpg,"[[[118, 60], [398, 60], [398, 199], [118, 199]]]","[""thing explainer cempecatid sfetr tn itpet dfaea""]"
+"Brown Bear, Brown Bear, What Do You See?",Jr.  Bill Martin,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000509.jpg,"[[[89, 103], [382, 103], [382, 194], [89, 194]]]","[""brewndoat brown drar; wkeh do tou 827""]"
+"Dragon Ball Super, Vol. 2",Akira Toriyama,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000510.jpg,[],[]
+The Cartoon Guide to Chemistry,Larry Gonick,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000511.jpg,"[[[13, 10], [505, 10], [505, 133], [13, 133]]]","[""thecaptoonguide to cllgmigtav""]"
+Berserk Volume 20,Kentaro Miura,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000512.jpg,"[[[35, 13], [486, 13], [486, 136], [35, 136]]]","[""eexserk 202""]"
+The Walking Dead Volume 13: Too Far Gone,Robert Kirkman,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000513.jpg,[],[]
+Avatar: The Last Airbender# The Lost Adventures,May Chan,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000514.jpg,"[[[86, 30], [462, 30], [462, 117], [86, 117]]]","[""avatar  thi lxt xbfnjar""]"
+Berserk Volume 21,Kentaro Miura,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000515.jpg,"[[[35, 23], [465, 23], [465, 113], [35, 113]]]","[""bezsezk""]"
+"Black Butler, Vol. 5",Yana Toboso,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000516.jpg,[],[]
+Sword Art Online Progressive 1 (light novel),Reki Kawahara,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000517.jpg,"[[[324, 148], [503, 148], [503, 293], [324, 293]]]","[""word ft qune >ive ooi rhpa""]"
+Am I There Yet?,Mari Andrew,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000518.jpg,[],[]
+Fairy Tail 3,Hiro Mashima,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000519.jpg,"[[[28, 0], [477, 0], [477, 127], [28, 127]]]","[""frirytawe""]"
+Sailor Moon Vol. 3,Naoko Takeuchi,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000520.jpg,[],[]
+Crisis on Infinite Earths,DC Comics,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000521.jpg,[],[]
+Asterix: Asterix and the Banquet,Rene Goscinny,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000522.jpg,"[[[10, 9], [500, 9], [500, 150], [10, 150]]]","[""bgoschvny aeterza uoblo asterix and the banquet""]"
+Fables,Bill Willingham,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000523.jpg,"[[[34, 4], [501, 4], [501, 129], [34, 129]]]","[""faples ott""]"
+Jolly Phonics Pupil Book 1,Sara Wernham,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000524.jpg,[],[]
+"Death Note Black Edition, Vol. 6",Tsugumi Ohba,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000525.jpg,[],[]
+"Death Note, Vol. 3",Tsugumi Ohba,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000526.jpg,[],[]
+Easy Phonic Words Very First Reading Support Title,Mairi Mackinnon,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000527.jpg,"[[[23, 41], [470, 41], [470, 146], [23, 146]]]","[""easy phonics words""]"
+"No Game No Life, Vol. 6 (light novel)",Yuu Kamiya,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000528.jpg,[],[]
+"One Piece, Vol. 91",Eiichiro Oda,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000529.jpg,[],[]
+"Yotsuba&!, Vol. 2",Kiyohiko Azuma,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000530.jpg,[],[]
+"Seraph of the End, Vol. 1",Takaya Kagami,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000531.jpg,"[[[32, 296], [473, 296], [473, 362], [32, 362]]]","[""serophoteno""]"
+Scott Pilgrim: Scott Pilgrim Gets it Together v. 4,Bryan Lee O'Malley,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000532.jpg,[],[]
+Suicide Squad Vol. 1,Adam Glass,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000533.jpg,"[[[82, 26], [438, 26], [438, 153], [82, 153]]]","[""sucide 'ad""]"
+Junji Ito's Cat Diary: Yon & Mu,Junji Ito,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000534.jpg,"[[[56, 14], [455, 14], [455, 93], [56, 93]]]","[""jurjioscat cun yon&mu""]"
+"Haikyu!!, Vol. 3",Haruichi Furudate,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000535.jpg,[],[]
+One Piece Box Set 2,Eiichiro Oda,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000536.jpg,,
+Berserk Volume 26,Kentaro Miura,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000537.jpg,[],[]
+Berserk Volume 19,Kentaro Miura,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000538.jpg,[],[]
+The Walking Dead Volume 19: March to War,Robert Kirkman,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000539.jpg,[],[]
+Thea Stilton and the Mountain of Fire,Thea Stilton,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000540.jpg,"[[[46, 168], [466, 168], [466, 200], [46, 200]]]","[""mounani @rfie""]"
+"Naruto: Itachi's Story, Vol. 1",Takashi Yano,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000541.jpg,[],[]
+"One Piece: East Blue 4-5-6, Vol. 2 (Omnibus Edition)",Eiichiro Oda,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000542.jpg,[],[]
+Illusion Of Life,Ollie Johnston,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000543.jpg,"[[[47, 59], [463, 59], [463, 176], [47, 176]]]","[""tke illusion o lile disaey animation frak ilom4olie fron""]"
+The Walking Dead Volume 12: Life Among Them,Robert Kirkman,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000544.jpg,[],[]
+The Wicked + The Divine Volume 2: Fandemonium,Kieron Gillen,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000545.jpg,[],[]
+"Dragon Ball Super, Vol. 4",Akira Toriyama,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000546.jpg,[],[]
+Asterix: Omnibus 6,Rene Goscinny,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000547.jpg,[],[]
+"One Piece: East Blue 7-8-9, Vol. 3 (Omnibus Edition)",Eiichiro Oda,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000548.jpg,[],[]
+The Joker,Brian Azzarello,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000549.jpg,[],[]
+A Monster Calls,Patrick Ness,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000550.jpg,"[[[25, 378], [488, 378], [488, 506], [25, 506]]]","[""a monster calls prtrice nlss siotindo\""d""]"
+Berserk Volume 23,Kentaro Miura,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000551.jpg,"[[[36, 17], [456, 17], [456, 118], [36, 118]]]","[""{ezserk""]"
+Asterix: How Obelix Fell into the Magic Potion,Rene Goscinny,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000552.jpg,"[[[13, 9], [508, 9], [508, 142], [13, 142]]]","[""n goscojny acom a wdered how obelix ffll into thk magic potion wretpringatttt d""]"
+"Is It Wrong to Try to Pick Up Girls in a Dungeon?, Vol. 2 (light novel)",Fujino Omori,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000553.jpg,[],[]
+Ocean,Dan Kainen,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000554.jpg,"[[[0, 25], [512, 25], [512, 148], [0, 148]]]","[""ocean""]"
+The Merchant of Venice,William Shakespeare,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000555.jpg,"[[[51, 39], [465, 39], [465, 133], [51, 133]]]","[""the merehant of venice wlllw miirkaci""]"
+The Art Of The Mass Effect Universe,Casey Hudson,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000556.jpg,[],[]
+"The Mortal Instruments: The Graphic Novel, Vol. 1",Cassandra Clare,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000557.jpg,,
+"Ten Count, Vol. 2",Rihito Takarai,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000558.jpg,[],[]
+Asterix: Omnibus 10,Albert Uderzo,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000559.jpg,"[[[38, 24], [472, 24], [472, 174], [38, 174]]]","[""aoterx bu""]"
+The Walking Dead Volume 14: No Way Out,Robert Kirkman,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000560.jpg,[],[]
+Berserk Volume 27,Kentaro Miura,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000561.jpg,[],[]
+"Death Note Black Edition, Vol. 5",Tsugumi Ohba,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000562.jpg,[],[]
+"Komi Can't Communicate, Vol. 2",Tomohito Oda,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000563.jpg,"[[[19, 203], [498, 203], [498, 300], [19, 300]]]","[""remi can communicate""]"
+"Tokyo Ghoul: re, Vol. 3",Sui Ishida,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000564.jpg,[],[]
+The Seven Deadly Sins 1,Nakaba Suzuki,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000565.jpg,[],[]
+Scott Pilgrim: Scott Pilgrim vs the Universe v. 5,Bryan Lee O'Malley,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000566.jpg,[],[]
+"Hunter x Hunter, Vol. 3",Yoshihiro Togashi,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000567.jpg,[],[]
+Scott Pilgrim: Scott Pilgrim and the Infinite Sadness v. 3,Bryan Lee O'Malley,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000568.jpg,[],[]
+"Dragon Ball Super, Vol. 3",Akira Toriyama,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000569.jpg,[],[]
+Berserk Volume 28,Kentaro Miura,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000570.jpg,"[[[17, 15], [486, 15], [486, 112], [17, 112]]]","[""{ezserk""]"
+Made in Abyss Vol. 2,Akihito Tsukushi,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000571.jpg,[],[]
+"Spice and Wolf, Vol. 7 (light novel)",Isuna Hasekura,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000572.jpg,[],[]
+The Walking Dead Volume 11: Fear The Hunters,Robert Kirkman,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000573.jpg,[],[]
+"Spice and Wolf, Vol. 8 (light novel)",Isuna Hasekura,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000574.jpg,[],[]
+Are You My Mother?,Alison Bechdel,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000575.jpg,"[[[100, 100], [327, 100], [327, 268], [100, 268]]]","[""tou my ne mother 4\""e""]"
+Berserk Volume 18,Kentaro Miura,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000576.jpg,[],[]
+The Walking Dead Book 6,Robert Kirkman,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000577.jpg,"[[[94, 296], [443, 296], [443, 478], [94, 478]]]","[""the walking dead #die 33""]"
+Death Note: Another Note (Novel),Ishin Nishio,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000578.jpg,[],[]
+"Dragon Ball (3-in-1 Edition), Vol. 2",Akira Toriyama,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000579.jpg,"[[[4, 0], [464, 0], [464, 155], [4, 155]]]","[""draqonb? -in-""]"
+Adventure Time: v. 1,Ryan North,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000580.jpg,[],[]
+The Walking Dead Volume 16: A Larger World,Robert Kirkman,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000581.jpg,[],[]
+"Death Note, Vol. 4",Tsugumi Ohba,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000582.jpg,,
+The Walking Dead Volume 8: Made To Suffer,Robert Kirkman,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000583.jpg,[],[]
+The Buenas Noches a Todos (Going to Bed Book),Sandra Boynton,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000584.jpg,"[[[11, 43], [247, 43], [247, 192], [11, 192]]]","[""buenas noches""]"
+"One Piece, Vol. 5",Eiichiro Oda,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000585.jpg,[],[]
+The Walking Dead Volume 20: All Out War Part 1,Robert Kirkman,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000586.jpg,[],[]
+The Walking Dead Volume 15: We Find Ourselves,Robert Kirkman,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000587.jpg,[],[]
+"One Piece, Vol. 90",Eiichiro Oda,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000588.jpg,[],[]
+Fence Vol. 1,C.S. Pacat,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000589.jpg,[],[]
+Calvin and Hobbes,Bill Watterson,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000590.jpg,"[[[18, -9], [502, -9], [502, 94], [18, 94]]]","[""calvin 0 hobbes""]"
+Scott Pilgrim's Precious Little Life,Bryan Lee O'Malley,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000591.jpg,"[[[83, 28], [438, 28], [438, 52], [83, 52]]]","[""cttri lii dtlzet""]"
+Shadowhunters and Downworlders,Cassandra Clare,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000592.jpg,"[[[13, 11], [498, 11], [498, 142], [13, 142]]]","[""shadowhunters and downworlders""]"
+"Blue Exorcist, Vol. 5",Kazue KATO,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000593.jpg,[],[]
+Batman,Brian Augustyn,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000594.jpg,"[[[83, 9], [470, 9], [470, 190], [83, 190]]]","[""batman ih""]"
+Berserk Volume 24,Kentaro Miura,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000595.jpg,"[[[35, 21], [462, 21], [462, 119], [35, 119]]]","[""berserk""]"
+"JoJo's Bizarre Adventure: Part 4--Diamond Is Unbreakable, Vol. 1",Hirohiko Araki,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000596.jpg,[],[]
+Asterix: Asterix in Belgium,Rene Goscinny,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000597.jpg,"[[[4, 7], [507, 7], [507, 144], [4, 144]]]","[""b goscinny naerzt wcerzo in asterxeegum""]"
+"Naruto, Vol. 4",Masashi Kishimoto,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000598.jpg,[],[]
+The Sandman Volume 1: 30th Anniversary Edition,Neil Gaiman,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000599.jpg,[],[]
+Berserk Volume 22,Kentaro Miura,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000600.jpg,[],[]
+Zen Pencils,Gavin Aung Than,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000601.jpg,[],[]
+Sunstone Volume 1,Stjepan Sejic,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000602.jpg,[],[]
+Akira Volume 3,Katsuhiro Otomo,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000603.jpg,,
+"One Piece: East Blue 10-11-12, Vol. 4 (Omnibus Edition)",Eiichiro Oda,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000604.jpg,[],[]
+Berserk Volume 25,Kentaro Miura,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000605.jpg,"[[[36, 18], [469, 18], [469, 122], [36, 122]]]","[""berserk""]"
+Tokyo on Foot,Florent Chavouet,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000606.jpg,[],[]
+Trauma is Really Strange,Steve Haines,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000607.jpg,"[[[10, 14], [504, 14], [504, 98], [10, 98]]]","[""traua |s really strange""]"
+"Assassination Classroom, Vol. 4",Yusei Matsui,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000608.jpg,"[[[39, 43], [479, 43], [479, 87], [39, 87]]]","[""classroom""]"
+"The Girl from the Other Side: Siuil, a Run: Vol. 2",Nagabe,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000609.jpg,[],[]
+The Legend of Zelda Box Set,Akira Himekawa,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000610.jpg,,
+"Kaguya-sama: Love Is War, Vol. 1",Aka Akasaka,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000611.jpg,[],[]
+East of West Volume 1: The Promise,Jonathan Hickman,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000612.jpg,[],[]
+Hellboy Library Volume 1: Seed Of Destruction And Wake The Devil,Mike Mignola,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000613.jpg,[],[]
+Donde Viven Los Monstruos,Maurice Sendak,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000614.jpg,"[[[17, 0], [506, 0], [506, 63], [17, 63]]]","[""donde viveh los monstrhos""]"
+"Goodnight Punpun, Vol. 3",Inio Asano,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000615.jpg,"[[[0, 173], [512, 173], [512, 351], [0, 351]]]","[""goodnight punpun""]"
+Let's Color,Kumon Publishing,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000616.jpg,"[[[101, 64], [465, 64], [465, 289], [101, 289]]]","[""lets color! 42""]"
+"Naruto, Vol. 5",Masashi Kishimoto,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000617.jpg,[],[]
+Rat Queens Volume 2: The Far Reaching Tentacles of N'Rygoth,Kurtis J. Wiebe,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000618.jpg,[],[]
+Pluto,Naoki Urasawa,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000619.jpg,,
+"Vagabond, Vol. 4 (VIZBIG Edition)",Takehiko Inoue,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000620.jpg,,
+Maus: a Survivor\'s Tale,Art Spiegelman,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000621.jpg,[],[]
+NieR:Automata: Long Story Short,Jun Eishima,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000622.jpg,"[[[48, 190], [466, 190], [466, 238], [48, 238]]]","[""hiek autouatta""]"
+Green Arrow,Andy Diggle,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000623.jpg,"[[[117, 39], [472, 39], [472, 153], [117, 153]]]","[""green qou dar""]"
+Batman,Doug Moench,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000624.jpg,[],[]
+Boy and Going Solo,Roald Dahl,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000625.jpg,"[[[18, 5], [491, 5], [491, 281], [18, 281]]]","[""roald dahl boyand $ oing safe""]"
+Vinland Saga 4,Makoto Yukimura,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000626.jpg,"[[[106, 332], [410, 332], [410, 485], [106, 485]]]","[""icland saga""]"
+"Spice and Wolf, Vol. 9 (light novel)",Isuna Hasekura,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000627.jpg,[],[]
+The Tea Dragon Society,Katie O'Neill,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000628.jpg,"[[[107, 53], [408, 53], [408, 171], [107, 171]]]","[""jea dragon ~bociely""]"
+Made in Abyss Vol. 4,Akihito Tsukushi,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000629.jpg,[],[]
+The Art of My Neighbor Totoro,Hayao Miyazaki,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000630.jpg,"[[[141, 0], [387, 0], [387, 85], [141, 85]]]","[""tae aet op arilbur""]"
+"Bakuman., Vol. 1",Tsugumi Ohba,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000631.jpg,"[[[0, 0], [512, 0], [512, 140], [0, 140]]]","[""beikumal""]"
+House Of M,Olivier Coipel,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000632.jpg,"[[[156, 28], [492, 28], [492, 106], [156, 106]]]","[""house of ma""]"
+Storm,Tim Minchin,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000633.jpg,[],[]
+JoJo's Bizarre Adventure,Hirohiko Araki,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000634.jpg,"[[[105, 67], [425, 67], [425, 141], [105, 141]]]","[""jojos ora4aa""]"
+Tintin in the Congo,Herge,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000635.jpg,"[[[83, 6], [442, 6], [442, 176], [83, 176]]]","[""7o4 titin tintin in the congo""]"
+The Sworn Sword: The Graphic Novel,George R. R. Martin,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000636.jpg,[],[]
+Encyclopedia Prehistorica Sharks and Other Sea Monsters,Matthew Reinhart,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000637.jpg,[],[]
+Made in Abyss Vol. 3,Akihito Tsukushi,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000638.jpg,[],[]
+Batman Dark Victory (New Edition),Jeph Loeb,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000639.jpg,[],[]
+Asterix: Asterix and the Picts,Jean-Yves Ferri,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000640.jpg,[],[]
+"Yotsuba&!, Vol. 3",Kiyohiko Azuma,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000641.jpg,[],[]
+Saga Of The Swamp Thing Book 2,Len Wein,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000642.jpg,"[[[27, 419], [478, 419], [478, 497], [27, 497]]]","[""swame ihng isi""]"
+"Tokyo Ghoul: re, Vol. 4",Sui Ishida,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000643.jpg,"[[[14, 5], [495, 5], [495, 101], [14, 101]]]","[""tokyo ghoul re su mshidx""]"
+Lost At Sea,Bryan Lee O'Malley,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000644.jpg,"[[[140, 38], [370, 38], [370, 92], [140, 92]]]","[""lost at sca""]"
+"One Piece, Vol. 6",Eiichiro Oda,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000645.jpg,[],[]
+"Black Butler, Vol. 6",Yana Toboso,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000646.jpg,[],[]
+The Complete Far Side,Gary Larson,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000647.jpg,[],[]
+Made in Abyss Vol. 6,Akihito Tsukushi,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000648.jpg,[],[]
+Attack On Titan 27,Hajime Isayama,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000649.jpg,"[[[24, 2], [406, 2], [406, 146], [24, 146]]]","[""attack ontita""]"
+Monster,Naoki Urasawa,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000650.jpg,"[[[35, 165], [267, 165], [267, 253], [35, 253]]]","[""monser:""]"
+Batman Earth One,Geoff Johns,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000651.jpg,[],[]
+The Sandman Vol. 8,Neil Gaiman,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000652.jpg,"[[[62, 50], [505, 50], [505, 195], [62, 195]]]","[""sanoman gamal""]"
+Y The Last Man Book One,Brian K. Vaughan,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000653.jpg,[],[]
+"Neon Genesis Evangelion 3-in-1 Edition, Vol. 2",Yoshiyuki Sadamoto,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000654.jpg,[],[]
+Fables The Deluxe Edition Book Two,Bill Willingham,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000655.jpg,[],[]
+Where's My Cow?,Terry Pratchett,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000656.jpg,"[[[189, 405], [417, 405], [417, 446], [189, 446]]]","[""wvbctc \"" mv cov?""]"
+Pluto,Naoki Urasawa,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000657.jpg,,
+"Food Wars!, Vol. 2",Yuto Tsukuda,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000658.jpg,[],[]
+The Walking Dead Volume 21: All Out War Part 2,Robert Kirkman,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000659.jpg,[],[]
+V Is For Vegan,Ruby Roth,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000660.jpg,"[[[48, 21], [477, 21], [477, 142], [48, 142]]]","[""v is for vegan ihe acsol' being kind""]"
+"Spice and Wolf, Vol. 10 (light novel)",Isuna Hasekura,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000661.jpg,,
+Asterix: Asterix and the Chieftain's Shield,Rene Goscinny,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000662.jpg,"[[[4, 9], [510, 9], [510, 138], [4, 138]]]","[""egoscint ieenx wietd asterx s9htntims""]"
+"Deadman Wonderland, Vol. 3",Jinsei Kataoka,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000663.jpg,[],[]
+Asterix: Asterix in Corsica,Rene Goscinny,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000664.jpg,"[[[5, 7], [499, 7], [499, 133], [5, 133]]]","[""b @osciin astenxa wdbzd asterixa oorsica""]"
+Fables,Bill Willingham,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000665.jpg,"[[[65, 7], [399, 7], [399, 97], [65, 97]]]","[""fables""]"
+Star Wars: Darth Vader Vol. 2: Shadows And Secrets,Kieron Gillen,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000666.jpg,"[[[38, 466], [476, 466], [476, 494], [38, 494]]]","[""shadows andecreis""]"
+"Is It Wrong to Try to Pick Up Girls in a Dungeon?, Vol. 3 (light novel)",Fujino Omori,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000667.jpg,[],[]
+Sailor Moon 4,Naoko Takeuchi,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000668.jpg,[],[]
+Asterix: Asterix And The Falling Sky,Albert Uderzo,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000669.jpg,"[[[9, 7], [500, 7], [500, 188], [9, 188]]]","[""e ooscoiny iertxa @deazo astenix a tie fwlng sy""]"
+"Pokemon Adventures (Red and Blue), Vol. 2",Hidenori Kusaka,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000670.jpg,[],[]
+"Yotsuba&!, Vol. 6",Kiyohiko Azuma,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000671.jpg,[],[]
+The Walking Dead Volume 31,Robert Kirkman,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000672.jpg,[],[]
+The Flash Rebirth,Geoff Johns,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000673.jpg,[],[]
+Preacher Book Four,Garth Ennis,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000674.jpg,[],[]
+Ms. Marvel Volume 2: Generation Why,G. Wilson Willow,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000675.jpg,[],[]
+"Soul Eater, Vol. 1",Atsushi Ohkubo,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000676.jpg,"[[[0, 0], [512, 0], [512, 132], [0, 132]]]","[""soul eader atsushi dakvbo""]"
+A Silent Voice Volume 2,Yoshitoki Oima,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000677.jpg,[],[]
+Le petit Nicolas,Rene Goscinny,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000678.jpg,"[[[5, 0], [409, 0], [409, 79], [5, 79]]]","[""sempi-riciy 1 petic nicolas""]"
+My Solo Exchange Diary,Nagata Kabi,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000679.jpg,[],[]
+The Sandman Vol. 7 ( New Edition),Neil Gaiman,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000680.jpg,"[[[64, 14], [492, 14], [492, 185], [64, 185]]]","[""ld sanoman nel gumaii""]"
+"Haikyu!!, Vol. 4",Haruichi Furudate,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000681.jpg,[],[]
+Fairy Tail 5,Hiro Mashima,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000682.jpg,[],[]
+Bloom into You: Vol. 1,Nakatani Nio,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000683.jpg,[],[]
+Die Volume 1: Fantasy Heartbreaker,Kieron Gillen,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000684.jpg,[],[]
+Berserk Volume 29,Kentaro Miura,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000685.jpg,[],[]
+Spider-man/deadpool Vol. 1: Isn't It Bromantic,Joe Kelly,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000686.jpg,,
+Asterix: Omnibus 7,Rene Goscinny,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000687.jpg,"[[[41, 25], [471, 25], [471, 165], [41, 165]]]","[""aeterx""]"
+"Magi: The Labyrinth of Magic, Vol. 1",Shinobu Ohtaka,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000688.jpg,[],[]
+Y The Last Man Deluxe Edition Book Three,Brian K. Vaughan,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000689.jpg,[],[]
+"Naruto, Vol. 6",Masashi Kishimoto,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000690.jpg,[],[]
+"The Mortal Instruments Graphic Novel, Vol. 2",Cassandra Clare,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000691.jpg,[],[]
+Hellboy Omnibus Volume 2,Mike Mignola,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000692.jpg,[],[]
+"Ten Count, Vol. 3",Rihito Takarai,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000693.jpg,[],[]
+The Rising Of The Shield Hero Volume 02: Light Novel,Aneko Yusagi,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000694.jpg,[],[]
+"Naruto: Itachi's Story, Vol. 2",Takashi Yano,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000695.jpg,[],[]
+Asterix: Asterix and the Great Crossing,Rene Goscinny,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000696.jpg,"[[[5, 5], [503, 5], [503, 164], [5, 164]]]","[""0 ooscwtty ieerra mugeto asterix a anp ihe great crossing""]"
+Batman Vol. 1,Scott Snyder,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000697.jpg,[],[]
+Berserk Volume 33,Kentaro Miura,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000698.jpg,[],[]
+Blackest Night,Geoff Johns,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000699.jpg,[],[]
+Made in Abyss Vol. 5,Akihito Tsukushi,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000700.jpg,[],[]
+Batman Vol. 8 Superheavy (The New 52),Scott Snyder,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000701.jpg,[],[]
+Y The Last Man Deluxe Edition Book Four,Brian K. Vaughan,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000702.jpg,[],[]
+The Ancient Magus' Bride: Volume 2,Kore Yamazaki,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000703.jpg,[],[]
+Attack On Titan 26,Hajime Isayama,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000704.jpg,"[[[24, 4], [410, 4], [410, 147], [24, 147]]]","[""nitack @than""]"
+"Death Note, Vol. 5",Tsugumi Ohba,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000705.jpg,[],[]
+The Tiny Book of Tiny Stories: Volume 3,Joseph Gordon-Levitt,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000706.jpg,"[[[108, 31], [432, 31], [432, 83], [108, 83]]]","[""tre tini boon""]"
+Citrus: Volume 1,Saburouta,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000707.jpg,"[[[0, 357], [512, 357], [512, 484], [0, 484]]]","[""citeus""]"
+"Fullmetal Alchemist (3-in-1 Edition), Vol. 3",Hiromu Arakawa,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000708.jpg,[],[]
+Justice League Vol. 2,Geoff Johns,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000709.jpg,,
+The Walking Dead Book 7,Robert Kirkman,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000710.jpg,"[[[54, 254], [488, 254], [488, 442], [54, 442]]]","[""the alking dead wook #even""]"
+"Death Note, Vol. 6",Tsugumi Ohba,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000711.jpg,[],[]
+"Hunter x Hunter, Vol. 4",Yoshihiro Togashi,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000712.jpg,[],[]
+Thea Stilton and the Ghost of the Shipwreck,Thea Stilton,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000713.jpg,"[[[87, 96], [428, 96], [428, 229], [87, 229]]]","[""thea stilton ajb uab ohostjjjhb shiyjaad%""]"
+"Vagabond, Vol. 5 (VIZBIG Edition)",Takehiko Inoue,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000714.jpg,[],[]
+The Art Of The Last Of Us,Naughty Dog Studios,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000715.jpg,"[[[370, 19], [487, 19], [487, 173], [370, 173]]]","[""the wast @fus""]"
+Fairy Tail 4,Hiro Mashima,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000716.jpg,"[[[28, 0], [471, 0], [471, 130], [28, 130]]]","[""fariav""]"
+Sandman Vol. 10,Neil Gaiman,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000717.jpg,"[[[24, 52], [450, 52], [450, 100], [24, 100]]]","[""zsanoman""]"
+All You Need Is Kill,Hiroshi Sakurazaka,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000718.jpg,"[[[11, 243], [500, 243], [500, 353], [11, 353]]]","[""alleow neekil""]"
+X-men: Days Of Future Past,Chris Claremont,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000719.jpg,"[[[55, 465], [461, 465], [461, 505], [55, 505]]]","[""daxs wftutuxe past""]"
+"Blue Exorcist, Vol. 6",Kazue KATO,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000720.jpg,[],[]
+"Dragon Ball (3-in-1 Edition), Vol. 3",Akira Toriyama,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000721.jpg,[],[]
+Tintin and the Picaros,Herge,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000722.jpg,"[[[131, 58], [395, 58], [395, 160], [131, 160]]]","[""tintin ahdtre picaros""]"
+Attack On Titan 25,Hajime Isayama,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000723.jpg,"[[[18, 0], [414, 0], [414, 145], [18, 145]]]","[""attack tontitan""]"
+Attack On Titan 23,Hajime Isayama,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000724.jpg,"[[[12, 0], [408, 0], [408, 142], [12, 142]]]","[""atick 'ontitad""]"
+The Electric State,Simon Stålenhag,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000725.jpg,"[[[221, 124], [495, 124], [495, 271], [221, 271]]]","[""f electric state""]"
+"The League Of Extraordinary Gentlemen, Vol. 1",Allan Moore,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000726.jpg,"[[[7, 442], [497, 442], [497, 512], [7, 512]]]","[""extredrdharitgertremer""]"
+Strange Planet,Nathan W. Pyle,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000727.jpg,"[[[21, 351], [491, 351], [491, 411], [21, 411]]]","[""strance flanetf""]"
+Berserk Volume 31,Kentaro Miura,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000728.jpg,[],[]
+Winter Soldier Ultimate Collection,Steve Epting,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000729.jpg,"[[[93, 360], [427, 360], [427, 439], [93, 439]]]","[""cidted soliic""]"
+Seconds,Bryan Lee O'Malley,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000730.jpg,[],[]
+Vinland Saga 5,Makoto Yukimura,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000731.jpg,"[[[109, 330], [406, 330], [406, 472], [109, 472]]]","[""uioland saga""]"
+El principito,Antoine de Saint-Exupery,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000732.jpg,"[[[25, 31], [486, 31], [486, 121], [25, 121]]]","[""82 trimcipito""]"
+"Assassination Classroom, Vol. 5",Yusei Matsui,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000733.jpg,[],[]
+"Death Note, Vol. 7",Tsugumi Ohba,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000734.jpg,,
+Battle Angel Alita Deluxe Edition 1,Yukito Kishiro,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000735.jpg,,
+"Overlord, Vol. 7 (light novel)",Kugane Maruyama,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000736.jpg,[],[]
+Fables,Bill Willingham,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000737.jpg,[],[]
+The Walking Dead Volume 30: New World Order,Robert Kirkman,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000738.jpg,[],[]
+"JoJo's Bizarre Adventure: Part 3--Stardust Crusaders, Vol. 10",Hirohiko Araki,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000739.jpg,[],[]
+"Tokyo Ghoul: re, Vol. 7",Sui Ishida,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000740.jpg,[],[]
+Sword Art Online Progressive 2 (light novel),Reki Kawahara,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000741.jpg,"[[[311, 7], [497, 7], [497, 137], [311, 137]]]","[""word 1rr gnine fr fesii ooz""]"
+Paper Girls Volume 4,Brian K. Vaughan,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000742.jpg,"[[[16, 64], [488, 64], [488, 495], [16, 495]]]","[""3l papev gib 16""]"
+Sailor Moon Vol. 5,Naoko Takeuchi,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000743.jpg,[],[]
+Scott Pilgrim Color: Precious Little Life Volume 1,Bryan Lee O'Malley,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000744.jpg,[],[]
+Berserk Volume 34,Kentaro Miura,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000745.jpg,"[[[38, 10], [464, 10], [464, 115], [38, 115]]]","[""gezserk""]"
+"Ten Count, Vol. 6",Rihito Takarai,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000746.jpg,[],[]
+Asterix: Asterix and the Missing Scroll,Jean-Yves Ferri,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000747.jpg,"[[[20, 0], [501, 0], [501, 129], [20, 129]]]","[""r gosclnt idemrn udeazo asterix missng scroll""]"
+"Pluto: Urasawa x Tezuka, Vol. 4",Naoki Urasawa,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000748.jpg,[],[]
+Berserk Volume 30,Kentaro Miura,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000749.jpg,[],[]
+The Walking Dead Book 8,Robert Kirkman,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000750.jpg,"[[[51, 253], [452, 253], [452, 456], [51, 456]]]","[""the walkmg dead wook ficht""]"
+Our Dreams at Dusk: Shimanami Tasogare Vol. 1,Yuhki Kamatani,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000751.jpg,"[[[44, 307], [476, 307], [476, 458], [44, 458]]]","[""our dreams at dusk tgocw""]"
+The Adventures of Tintin: Tintin and Alph-Art,Herge,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000752.jpg,"[[[104, 69], [417, 69], [417, 195], [104, 195]]]","[""tintin alph-art""]"
+"Ten Count, Vol. 4",Rihito Takarai,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000753.jpg,[],[]
+"Vampire Knight, Vol. 1",Matsuri Hino,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000754.jpg,"[[[12, 21], [451, 21], [451, 128], [12, 128]]]","[""ympire eshchs""]"
+Frankenstein,Junji Ito,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000755.jpg,"[[[0, 199], [463, 199], [463, 311], [0, 311]]]","[""ffrankenstcin""]"
+Berserk Volume 32,Kentaro Miura,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000756.jpg,[],[]
+Good Morning Yoga,Mariam Gates,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000757.jpg,[],[]
+"Fruits Basket Collector's Edition, Vol. 1",Natsuki Takaya,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000758.jpg,[],[]
+"20th Century Boys: The Perfect Edition, Vol. 1",Naoki Urasawa,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000759.jpg,[],[]
+Lumberjanes Vol. 2,Noelle Stevenson,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000760.jpg,"[[[107, 24], [494, 24], [494, 102], [107, 102]]]","[""wmberjanes""]"
+Noragami Volume 2,Adachitoka,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000761.jpg,"[[[11, 415], [431, 415], [431, 507], [11, 507]]]","[""norgaz""]"
+Avatar: The Last Airbender - The Rift Library Edition,Gene Luen Yang,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000762.jpg,[],[]
+"Goodnight Punpun, Vol. 4",Inio Asano,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000763.jpg,"[[[0, 281], [509, 281], [509, 509], [0, 509]]]","[""goodmght punpun inioas4no""]"
+The True Lives Of The Fabulous Killjoys,Gerard Way,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000764.jpg,[],[]
+"JoJo's Bizarre Adventure: Part 3--Stardust Crusaders, Vol. 3",Hirohiko Araki,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000765.jpg,[],[]
+Tintin in America,Herge,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000766.jpg,"[[[87, 86], [422, 86], [422, 198], [87, 198]]]","[""tintin america""]"
+"Yona of the Dawn, Vol. 1",Mizuho Kusanagi,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000767.jpg,[],[]
+"Deadman Wonderland, Vol. 4",Jinsei Kataoka,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000768.jpg,[],[]
+Tiddler,Julia Donaldson,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000769.jpg,[],[]
+Locke & Key Vol. 1,Joe Hill,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000770.jpg,[],[]
+"Goodnight Punpun, Vol. 5",Inio Asano,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000771.jpg,"[[[0, 282], [512, 282], [512, 506], [0, 506]]]","[""gwodnight pjnpun lo ind tin""]"
+Y The Last Man Deluxe Book Five,Brian K. Vaughan,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000772.jpg,[],[]
+"Tokyo Ghoul: re, Vol. 5",Sui Ishida,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000773.jpg,"[[[15, 7], [494, 7], [494, 101], [15, 101]]]","[""ttokyoghoul te bui ehida""]"
+Mister Seahorse,Eric Carle,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000774.jpg,"[[[32, 8], [386, 8], [386, 62], [32, 62]]]","[""eric garle nister seahorsf""]"
+"Seraph of the End, Vol. 2",Takaya Kagami,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000775.jpg,"[[[41, 300], [472, 300], [472, 351], [41, 351]]]","[""gerplateno""]"
+The Prince,Niccolo Machiavelli,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000776.jpg,[],[]
+Moebius Library: The World Of Edena,Moebius,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000777.jpg,[],[]
+Paper Girls Volume 5,Brian K Vaughan,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000778.jpg,"[[[14, 345], [488, 345], [488, 516], [14, 516]]]","[""paper gib""]"
+300,Frank Miller,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000779.jpg,[],[]
+"PandoraHearts, Vol. 1",Jun Mochizuki,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000780.jpg,[],[]
+How to Render,Scott Robertson,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000781.jpg,"[[[243, 47], [493, 47], [493, 175], [243, 175]]]","[""3 render""]"
+"JoJo's Bizarre Adventure: Part 4--Diamond Is Unbreakable, Vol. 2",Hirohiko Araki,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000782.jpg,[],[]
+A Scanner Darkly,Philip K. Dick,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000783.jpg,[],[]
+One Piece Box Set 3,Eiichiro Oda,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000784.jpg,,
+Batman: Damned,Brian Azzarello,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000785.jpg,[],[]
+Lone Wolf And Cub Omnibus Volume 1,Kazuo Koike,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000786.jpg,"[[[326, 181], [492, 181], [492, 380], [326, 380]]]","[""lone wolf ecub""]"
+Asterix: Asterix and the Cauldron,Rene Goscinny,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000787.jpg,"[[[7, 0], [498, 0], [498, 151], [7, 151]]]","[""e gozcikry iaarr wdebid astelix are ehe cauleron""]"
+Anne Frank's Diary: The Graphic Adaptation,Anne Frank,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000788.jpg,[],[]
+"Black Butler, Vol. 7",Yana Toboso,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000789.jpg,[],[]
+Pokemon Adventures Ruby & Sapphire Box Set,Hidenori Kusaka,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000790.jpg,[],[]
+Attack On Titan 24,Hajime Isayama,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000791.jpg,,
+Milne & Shepard : Now We are Six (Hbk),A A Milne,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000792.jpg,[],[]
+Scott Pilgrim vs the World: Volumes 2,Bryan Lee O\'Malley,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000793.jpg,[],[]
+Monster,Naoki Urasawa,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000794.jpg,"[[[80, 258], [302, 258], [302, 338], [80, 338]]]","[""~monseer:""]"
+Akira Volume 4,Katsuhiro Otomo,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000795.jpg,,
+Seconds:A Graphic Novel,Bryan Lee O'Malley,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000796.jpg,"[[[21, 67], [493, 67], [493, 294], [21, 294]]]","[""gun r bryan lee mallet seconds a bhaphic quvel""]"
+Beauty Queens,Libba Bray,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000797.jpg,"[[[18, 22], [509, 22], [509, 536], [18, 536]]]","[""libba bray beauty 0""]"
+Tintin and the Lake of Sharks,Herge,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000798.jpg,"[[[152, 86], [278, 86], [278, 197], [152, 197]]]","[""and the lake 0f""]"
+Junji Ito's Dissolving Classroom,Junji Ito,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000799.jpg,[],[]
+"Tokyo Ghoul: re, Vol. 6",Sui Ishida,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000800.jpg,"[[[14, 6], [496, 6], [496, 54], [14, 54]]]","[""tokyo ghoule""]"
+"One Piece, Vol. 7",Eiichiro Oda,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000801.jpg,[],[]
+Blame! 1,Tsutomu Nihei,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000802.jpg,[],[]
+"Pluto: Urasawa x Tezuka, Vol. 5",Naoki Urasawa,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000803.jpg,[],[]
+"Yotsuba&!, Vol. 8",Kiyohiko Azuma,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000804.jpg,[],[]
+Vinland Saga Vol. 6,Makoto Yukimura,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000805.jpg,"[[[108, 340], [404, 340], [404, 483], [108, 483]]]","[""vialand saga""]"
+"Neon Genesis Evangelion 3-in-1 Edition, Vol. 3",Yoshiyuki Sadamoto,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000806.jpg,"[[[16, 4], [510, 4], [510, 144], [16, 144]]]","[""neon genesis eiangtljon""]"
+"Yotsuba&!, Vol. 4",Kiyohiko Azuma,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000807.jpg,[],[]
+"Vagabond, Vol. 6 (VIZBIG Edition)",Takehiko Inoue,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000808.jpg,[],[]
+The Walking Dead Volume 25: No Turning Back,Robert Kirkman,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000809.jpg,[],[]
+"Black Clover, Vol. 1",Yuki Tabata,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000810.jpg,[],[]
+Dark Nights: Deluxe Edition,Scott Snyder,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000811.jpg,[],[]
+Gangsta Granny,David Walliams,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000812.jpg,"[[[114, 318], [406, 318], [406, 460], [114, 460]]]","[""gangsta granivy""]"
+"Pluto: Urasawa x Tezuka, Vol. 8",Naoki Urasawa,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000813.jpg,[],[]
+"Vagabond, Vol. 7 (VIZBIG Edition)",Takehiko Inoue,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000814.jpg,[],[]
+Batman Vol. 9 Bloom (The New 52),Scott Snyder,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000815.jpg,[],[]
+"Hunter x Hunter, Vol. 5",Yoshihiro Togashi,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000816.jpg,[],[]
+"Blue Exorcist, Vol. 7",Kazue KATO,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000817.jpg,[],[]
+Asterix: Asterix and the Missing Scroll,Jean-Yves Ferri,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000818.jpg,"[[[20, 0], [501, 0], [501, 129], [20, 129]]]","[""r gosclnt idemrn udeazo asterix missng scroll""]"
+Berserk Volume 35,Kentaro Miura,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000819.jpg,[],[]
+Sword Art Online Progressive 3 (light novel),Reki Kawahara,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000820.jpg,"[[[288, 294], [493, 294], [493, 427], [288, 427]]]","[""iword ami 0 fu2e dive 0o3""]"
+Sailor Moon Vol. 6,Naoko Takeuchi,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000821.jpg,,
+"Assassination Classroom, Vol. 6",Yusei Matsui,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000822.jpg,"[[[31, 39], [478, 39], [478, 90], [31, 90]]]","[""classroom""]"
+Attack On Titan: No Regrets 1,Hajime Isayama,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000823.jpg,[],[]
+Batman Vol. 1 (Rebirth),Tom King,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000824.jpg,,
+Asterix: Asterix and the Roman Agent,Rene Goscinny,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000825.jpg,"[[[11, 0], [500, 0], [500, 148], [11, 148]]]","[""r goscininy xstenrn @ded astelix andt roaan uceky""]"
+Berserk Volume 37,Kentaro Miura,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000826.jpg,[],[]
+The Walking Dead Volume 22: A New Beginning,Robert Kirkman,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000827.jpg,[],[]
+Attack On Titan 20,Hajime Isayama,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000828.jpg,"[[[32, 3], [409, 3], [409, 142], [32, 142]]]","[""atiaek @j tnn""]"
+Attack On Titan 16,Hajime Isayama,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000829.jpg,,
+Avatar: The Last Airbender - Smoke And Shadow Library Edition,Gene Luen Yang,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000830.jpg,[],[]
+Attack On Titan 21,Hajime Isayama,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000831.jpg,"[[[22, 6], [411, 6], [411, 143], [22, 143]]]","[""attack on titan""]"
+The Ancient Magus' Bride: Volume 3,Kore Yamazaki,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000832.jpg,"[[[19, 305], [499, 305], [499, 421], [19, 421]]]","[""da gus bride""]"
+Sunstone Volume 2,Stjepan Sejic,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000833.jpg,,
+Pluto,Naoki Urasawa,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000834.jpg,"[[[116, 120], [190, 120], [190, 146], [116, 146]]]","[""ufat""]"
+The Legend Of Zelda Encyclopedia,Nintendo,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000835.jpg,"[[[140, 436], [372, 436], [372, 460], [140, 460]]]","[""enl yclofedia""]"
+"Food Wars!, Vol. 3",Yuto Tsukuda,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000836.jpg,,
+Daredevil: The Man Without Fear,John Romita,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000837.jpg,"[[[33, 21], [481, 21], [481, 89], [33, 89]]]","[""daredevic""]"
+"Death Note, Vol. 12",Tsugumi Ohba,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000838.jpg,,
+Attack On Titan 18,Hajime Isayama,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000839.jpg,"[[[24, 3], [414, 3], [414, 144], [24, 144]]]","[""atask clru trhisn""]"
+A Silent Voice Volume 3,Yoshitoki Oima,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000840.jpg,"[[[88, 13], [369, 13], [369, 125], [88, 125]]]","[""2 silel cee""]"
+"Death Note, Vol. 8",Tsugumi Ohba,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000841.jpg,,
+Batman,Neil Gaiman,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000842.jpg,"[[[19, 18], [484, 18], [484, 108], [19, 108]]]","[""nai gaman kijrfrt batman""]"
+The Tale of Jemima Puddle-Duck,Beatrix Potter,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000843.jpg,"[[[70, 0], [441, 0], [441, 85], [70, 85]]]","[""thptaieof jrmtma""]"
+Batman,Frank Miller,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000844.jpg,,
+"Goodnight Punpun, Vol. 7",Inio Asano,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000845.jpg,"[[[0, 0], [512, 0], [512, 176], [0, 176]]]","[""goodnght punpun""]"
+Saga Of The Swamp Thing Book Three,Alan Moore,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000846.jpg,[],[]
+Adventure Time: v. 2,Shelli Parline,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000847.jpg,[],[]
+"Dragon Ball, Vol. 1",Akira Toriyama,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000848.jpg,[],[]
+Preacher Book Five,Garth Ennis,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000849.jpg,[],[]
+"Death Note, Vol. 9",Tsugumi Ohba,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000850.jpg,[],[]
+Writing for Comics: v. 1,Alan Moore,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000851.jpg,"[[[159, 10], [488, 10], [488, 155], [159, 155]]]","[""alen_mcore 3 ybiting fof comics""]"
+"Yotsuba&!, Vol. 5",Kiyohiko Azuma,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000852.jpg,[],[]
+Lucky Luke: Singing Wire v. 35,Goscinny,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000853.jpg,"[[[113, 65], [512, 65], [512, 103], [113, 103]]]","[""tkesinging w2s""]"
+"Death Note, Vol. 10",Tsugumi Ohba,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000854.jpg,[],[]
+Attack On Titan 17,Hajime Isayama,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000855.jpg,"[[[26, 6], [411, 6], [411, 145], [26, 145]]]","[""nttask @tnhan""]"
+Berlin,Jason Lutes,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000856.jpg,"[[[40, 57], [510, 57], [510, 344], [40, 344]]]","[""jason berlin lutes""]"
+Preacher Book Six,Garth Ennis,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000857.jpg,[],[]
+Snotgirl Volume 1: Green Hair Don't Care,Bryan Lee O'Malley,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000858.jpg,[],[]
+"Sex Criminals Volume 2: Two Worlds, One Cop",Matt Fraction,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000859.jpg,[],[]
+The Complete Far Side,Gary Larson,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000860.jpg,,
+"Yotsuba&!, Vol. 7",Kiyohiko Azuma,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000861.jpg,[],[]
+"Is It Wrong to Try to Pick Up Girls in a Dungeon?, Vol. 4 (light novel)",Fujino Omori,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000862.jpg,[],[]
+The Seven Deadly Sins 2,Nakaba Suzuki,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000863.jpg,,
+"Pluto: Urasawa x Tezuka, Vol. 7",Naoki Urasawa,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000864.jpg,[],[]
+The Walking Dead Volume 26: Call To Arms,Robert Kirkman,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000865.jpg,[],[]
+Attack On Titan 22,Hajime Isayama,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000866.jpg,"[[[22, 2], [410, 2], [410, 143], [22, 143]]]","[""attack on titan""]"
+"Ouran High School Host Club, Vol. 1",Bisco Hatori,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000867.jpg,[],[]
+Black Science Volume 1: How to Fall Forever,Rick Remender,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000868.jpg,[],[]
+"Yotsuba&!, Vol. 9",Kiyohiko Azuma,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000869.jpg,[],[]
+"One Piece, Vol. 8",Eiichiro Oda,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000870.jpg,[],[]
+Harry Potter and the Chamber of Secrets,J. K. Rowling,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000871.jpg,"[[[88, 199], [334, 199], [334, 319], [88, 319]]]","[""chanbir sesecreis""]"
+"One Piece, Vol. 9",Eiichiro Oda,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000872.jpg,[],[]
+"Naruto, Vol. 7",Masashi Kishimoto,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000873.jpg,[],[]
+Logicomix,Apostolos Doxiadis,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000874.jpg,"[[[16, 12], [499, 12], [499, 128], [16, 128]]]","[""logicomix""]"
+Akira Volume 5,Katsuhiro Otomo,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000875.jpg,,
+"Fullmetal Alchemist (3-in-1 Edition), Vol. 4",Hiromu Arakawa,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000876.jpg,[],[]
+"Tokyo Ghoul: re, Vol. 8",Sui Ishida,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000877.jpg,"[[[15, 7], [495, 7], [495, 101], [15, 101]]]","[""tolaogh ulte jui bhica""]"
+Gideon Falls Volume 1: The Black Barn,Jeff Lemire,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000878.jpg,[],[]
+"Death Note, Vol. 11",Tsugumi Ohba,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000879.jpg,,
+Garfield Fat Cat 3 Pack (Vol 1),Jim Davis,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000880.jpg,"[[[21, 7], [493, 7], [493, 196], [21, 196]]]","[""trlplc katpicn d cinallc gartld eiimnr garfield fat cat 3-pack currcu i17""]"
+Hansel & Gretel,Neil Gaiman,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000881.jpg,"[[[120, 316], [395, 316], [395, 450], [120, 450]]]","[""hansel & gretel""]"
+My Solo Exchange Diary Vol. 2,Nagata Kabi,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000882.jpg,[],[]
+Persepolis I & II,Marjane Satrapi,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000883.jpg,"[[[106, 48], [438, 48], [438, 120], [106, 120]]]","[""peksepolis""]"
+"Is It Wrong to Try to Pick Up Girls in a Dungeon?, Vol. 13 (light novel)",Fujino Omori,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000884.jpg,[],[]
+Deadpool - Volume 1: Dead Presidents (marvel Now),Brian Posehn,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000885.jpg,[],[]
+"Nisekoi: False Love, Vol. 1",Naoshi Komi,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000886.jpg,"[[[21, 251], [379, 251], [379, 384], [21, 384]]]","[""nsei falso aye""]"
+Berserk Volume 36,Kentaro Miura,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000887.jpg,[],[]
+Star Wars Volume 1: Skywalker Strikes Tpb,Jason Aaron,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000888.jpg,[],[]
+Hellblazer Vol. 2,Jamie Delano,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000889.jpg,[],[]
+"One Piece, Vol. 89",Eiichiro Oda,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000890.jpg,[],[]
+Spider-verse,Christos Gage,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000891.jpg,"[[[21, 0], [496, 0], [496, 97], [21, 97]]]","[""spider-uersz""]"
+Fables,Bill Willingham,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000892.jpg,"[[[257, 43], [501, 43], [501, 138], [257, 138]]]","[""wables ee6 eleads""]"
+Akira Volume 6,Katsuhiro Otomo,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000893.jpg,,
+Avatar: The Last Airbender#the Rift Part 1,Gene Luen Yang,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000894.jpg,[],[]
+"Haikyu!!, Vol. 5",Haruichi Furudate,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000895.jpg,[],[]
+"Ten Count, Vol. 5",Rihito Takarai,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000896.jpg,[],[]
+The Flash Vol. 2 Rogues Revolution (The New 52),Brian Buccellato,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000897.jpg,[],[]
+"One Piece: Baroque Works 13-14-15, Vol. 5 (Omnibus Edition)",Eiichiro Oda,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000898.jpg,[],[]
+A Girl On The Shore,Inio Asano,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000899.jpg,[],[]
+Aquaman Vol. 1 The Trench (The New 52),Geoff Johns,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000900.jpg,[],[]
+Punisher Max Complete Collection Vol. 1,Garth Ennis,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000901.jpg,"[[[43, 457], [470, 457], [470, 483], [43, 483]]]","[""the complete collectidn""]"
+Amphigorey,Edward Gorey,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000902.jpg,"[[[198, 374], [475, 374], [475, 492], [198, 492]]]","[""wegorey""]"
+Clockwork Princess: The Mortal Instruments Prequel,Cassandra Clare,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000903.jpg,[],[]
+"your name., Vol. 1",Makoto Shinkai,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000904.jpg,"[[[66, 7], [487, 7], [487, 101], [66, 101]]]","[""youinane 01""]"
+"Bakuman., Vol. 2",Tsugumi Ohba,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000905.jpg,"[[[0, 0], [510, 0], [510, 222], [0, 222]]]","[""balkuman 2""]"
+"My Youth Romantic Comedy Is Wrong, As I Expected, Vol. 2 (light novel)",Wataru Watari,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000906.jpg,"[[[10, 16], [206, 16], [206, 136], [10, 136]]]","[""mttouth rfmantic comedyms wrbngas expected""]"
+"Naruto (3-in-1 Edition), Vol. 1",Masashi Kishimoto,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000907.jpg,[],[]
+Geronimo Stilton: #3 Cat and Mouse in a Haunted House,Geronimo Stilton,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000908.jpg,"[[[34, 104], [480, 104], [480, 202], [34, 202]]]","[""cat rh jcuse dea hadntbd aovse""]"
+"Fullmetal Alchemist (3-in-1 Edition), Vol. 5",Hiromu Arakawa,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000909.jpg,[],[]
+Chew Volume 2: International Flavor,John Layman,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000910.jpg,[],[]
+Batman: Under the Red Hood,Judd Winick,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000911.jpg,"[[[177, 0], [506, 0], [506, 130], [177, 130]]]","[""batman ndid heuq""]"
+"The Saga of Tanya the Evil, Vol. 4 (Light Novel)",Carlo Zen,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000912.jpg,[],[]
+"Tokyo Ghoul: re, Vol. 11",Sui Ishida,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000913.jpg,"[[[21, 9], [495, 9], [495, 86], [21, 86]]]","[""tokyogho le ushic:""]"
+"Deadman Wonderland, Vol. 5",Jinsei Kataoka,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000914.jpg,[],[]
+Coding Games in Scratch,Jon Woodcock,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000915.jpg,"[[[18, 118], [504, 118], [504, 361], [18, 361]]]","[""coding games jn scratch""]"
+"Tokyo Ghoul: re, Vol. 10",Sui Ishida,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000916.jpg,"[[[31, 15], [508, 15], [508, 92], [31, 92]]]","[""tokyoghoul te 10 dg""]"
+Doctor Who: Official Annual 2016,Various,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000917.jpg,"[[[33, 396], [485, 396], [485, 503], [33, 503]]]","[""the dfficid annual 2016""]"
+Fairy Tail 6,Hiro Mashima,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000918.jpg,"[[[27, 0], [456, 0], [456, 111], [27, 111]]]","[""fartame""]"
+"Tokyo Ghoul: re, Vol. 9",Sui Ishida,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000919.jpg,[],[]
+Hundertwasser: My Painting Book,Anon,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000920.jpg,"[[[141, 111], [512, 111], [512, 195], [141, 195]]]","[""hundertwasser""]"
+"Blue Exorcist, Vol. 8",Kazue KATO,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000921.jpg,[],[]
+Tank Girl - Tank Girl 1 (Remastered Edition),Alan C. Martin,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000922.jpg,"[[[0, 0], [512, 0], [512, 257], [0, 257]]]","[""hatdanc let tank girl one""]"
+"Slam Dunk, Vol. 1",Takehiko Inoue,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000923.jpg,[],[]
+"Neon Genesis Evangelion 2-in-1 Edition, Vol. 5",Yoshiyuki Sadamoto,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000924.jpg,[],[]
+"Nausicaa of the Valley of the Wind, Vol. 1",Hayao Miyazaki,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000925.jpg,"[[[53, 0], [470, 0], [470, 84], [53, 84]]]","[""nausicaa ufthe vally ofthe wvje""]"
+A Silent Voice Vol. 4,Yoshitoki Oima,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000926.jpg,[],[]
+The Walking Dead Volume 27: The Whisperer War,Robert Kirkman,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000927.jpg,[],[]
+Wonder Woman Vol. 1,Brian Azzarello,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000928.jpg,[],[]
+Avatar: The Last Airbender: The Rift Part 2,Gene Luen Yang,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000929.jpg,[],[]
+"Naruto (3-in-1 Edition), Vol. 2",Masashi Kishimoto,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000930.jpg,[],[]
+The Ravens of Thri Sahashri,Kuro,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000931.jpg,[],[]
+Naruto Box Set 1,Masashi Kishimoto,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000932.jpg,[],[]
+"Bleach, Vol. 2",Tite Kubo,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000933.jpg,"[[[22, 0], [494, 0], [494, 70], [22, 70]]]","[""sbleaclls""]"
+"Black Butler, Vol. 8",Yana Toboso,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000934.jpg,[],[]
+Rat Queens Volume 3: Demons,Kurtis J. Wiebe,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000935.jpg,"[[[374, 21], [498, 21], [498, 54], [374, 54]]]","[""a dzmons""]"
+"Dragon Ball (3-in-1 Edition), Vol. 4",Akira Toriyama,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000936.jpg,[],[]
+I Love the Earth,Todd Parr,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000937.jpg,"[[[18, 23], [497, 23], [497, 87], [18, 87]]]","[""tlke earth bools""]"
+Hellboy Omnibus Volume 3: The Wild Hunt,Mike Mignola,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000938.jpg,[],[]
+Avatar: The Last Airbender - The Rift Part 3,Gene Luen Yang,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000939.jpg,[],[]
+The Wicked + The Divine Volume 3: Commercial Suicide,Kieron Gillen,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000940.jpg,[],[]
+Batman R.I.P.,Grant Morrison,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000941.jpg,"[[[130, 248], [380, 248], [380, 394], [130, 394]]]","[""batman rip""]"
+"Dr. STONE, Vol. 2",Riichiro Inagaki,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000942.jpg,[],[]
+"Pokemon Adventures (Red and Blue), Vol. 3",Hidenori Kusaka,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000943.jpg,[],[]
+"Tokyo Ghoul: re, Vol. 12",Sui Ishida,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000944.jpg,[],[]
+Pretty Deadly Volume 1: The Shrike,Kelly Sue Deconnick,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000945.jpg,[],[]
+"Deadman Wonderland, Vol. 6",Jinsei Kataoka,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000946.jpg,[],[]
+Maus: My Father Bleeds History v. 1,Art Spiegelman,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000947.jpg,[],[]
+The Tale of Genji,Murasaki Shikibu,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000948.jpg,"[[[73, 44], [436, 44], [436, 107], [73, 107]]]","[""lhuta tht al0o ginji""]"
+Low Volume 1: The Delirium of Hope,Rick Remender,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000949.jpg,[],[]
+Maximum Ride: Manga Volume 1,James Patterson,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000950.jpg,[],[]
+"JoJo's Bizarre Adventure: Part 3--Stardust Crusaders, Vol. 4",Hirohiko Araki,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000951.jpg,[],[]
+Deadpool Kills Deadpool,Cullen Bunn,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000952.jpg,[],[]
+Attack On Titan 19,Hajime Isayama,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000953.jpg,"[[[19, 1], [411, 1], [411, 141], [19, 141]]]","[""attack on tno""]"
+Lucky Luke Vol. 71,Jul,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000954.jpg,[],[]
+"Hunter x Hunter, Vol. 34",Yoshihiro Togashi,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000955.jpg,"[[[38, 299], [204, 299], [204, 512], [38, 512]]]","[""h hn' 34""]"
+"The Devil Is a Part-Timer!, Vol. 1 (light novel)",Satoshi Wagahara,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000956.jpg,[],[]
+Hugless Douglas,David Melling,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000957.jpg,"[[[72, 22], [444, 22], [444, 184], [72, 184]]]","[""hugles dougias""]"
+Ouran High School Host Club Box Set,Bisco Hatori,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000958.jpg,"[[[0, 26], [365, 26], [365, 115], [0, 115]]]","[""hhoslclibdox sit""]"
+The Last Of Us: American Dreams,Faith Erin Hicks,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000959.jpg,"[[[332, 19], [497, 19], [497, 236], [332, 236]]]","[""the @st @fus american reans""]"
+"Fruits Basket Collector's Edition, Vol. 2",Natsuki Takaya,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000960.jpg,[],[]
+Berserk Volume 38,Kentaro Miura,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000961.jpg,[],[]
+"One Piece, Vol. 10",Eiichiro Oda,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000962.jpg,[],[]
+Lucky Luke: Rails on the Prairie v. 32,Rene Goscinny,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000963.jpg,[],[]
+Parasyte 1,Hitoshi Iwaaki,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000964.jpg,[],[]
+"Goodnight Punpun, Vol. 6",Inio Asano,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000965.jpg,"[[[0, 283], [512, 283], [512, 506], [0, 506]]]","[""goodnighm punpun tiq rsano""]"
+Lucifer Book One,Mike Carey,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000966.jpg,,
+Monster,Naoki Urasawa,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000967.jpg,"[[[205, 107], [449, 107], [449, 197], [205, 197]]]","[""~monsfer:""]"
+"Kaguya-sama: Love Is War, Vol. 3",Aka Akasaka,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000968.jpg,[],[]
+"Dr. STONE, Vol. 6",Riichiro Inagaki,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000969.jpg,[],[]
+"Black Butler, Vol. 9",Yana Toboso,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000970.jpg,[],[]
+"Spice and Wolf, Vol. 14 (light novel)",Isuna Hasekura,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000971.jpg,[],[]
+Transmetropolitan Vol. 4,Warren Ellis,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000972.jpg,[],[]
+"Vagabond, Vol. 8 (VIZBIG Edition)",Takehiko Inoue,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000973.jpg,[],[]
+In Real Life,Cory Doctorow,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000974.jpg,"[[[155, 355], [363, 355], [363, 499], [155, 499]]]","[""real life ln;""]"
+"Magi: The Labyrinth of Magic, Vol. 2",Shinobu Ohtaka,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000975.jpg,[],[]
+"The World's Greatest First Love, Vol. 1",Shungiku Nakamura,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000976.jpg,[],[]
+"Horimiya, Vol. 1",Daisuke Hagiwara,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000977.jpg,[],[]
+Scott Pilgrim and the Infinite Sadness,Bryan Lee O'Malley,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000978.jpg,[],[]
+"Hunter x Hunter, Vol. 33",Yoshihiro Togashi,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000979.jpg,[],[]
+Naruto: Kakashi's Story,Akira Higashiyama,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000980.jpg,"[[[182, 276], [468, 276], [468, 351], [182, 351]]]","[""kakashis story""]"
+"My Hero Academia: Vigilantes, Vol. 1",Hideyuki Furuhashi,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000981.jpg,[],[]
+"Food Wars!, Vol. 4",Yuto Tsukuda,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000982.jpg,,
+"Kaguya-sama: Love Is War, Vol. 2",Aka Akasaka,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000983.jpg,"[[[47, 352], [450, 352], [450, 448], [47, 448]]]","[""gue saap war c3 4563""]"
+Wires and Nerve,Marissa Meyer,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000984.jpg,"[[[46, 244], [470, 244], [470, 396], [46, 396]]]","[""vtires a4t neri  =""]"
+"Dragon Ball (3-in-1 Edition), Vol. 6",Akira Toriyama,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000985.jpg,"[[[3, 0], [512, 0], [512, 156], [3, 156]]]","[""draqonball jopistin ehm""]"
+Batman,Jeph Loeb,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000986.jpg,"[[[223, 27], [475, 27], [475, 147], [223, 147]]]","[""batman riem rt6ut""]"
+"Hunter x Hunter, Vol. 7",Yoshihiro Togashi,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000987.jpg,[],[]
+Hellboy Volume 2: Wake The Devil (2nd Ed.),Mike Mignola,dataset\adjusted_dataset\Graphic-Novels-Anime-Manga\0000988.jpg,[],[]
